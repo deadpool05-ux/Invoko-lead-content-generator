@@ -1,0 +1,3106 @@
+[
+  {
+    "subreddit": "macapps",
+    "title": "MenuBar Pets \u2013 Animated characters that live in your menubar, not on your desktop [Lifetime]",
+    "author": "Acceptable_Tone601",
+    "ups": 3,
+    "url": "https://reddit.com/r/macapps/comments/1t5pu0c/menubar_pets_animated_characters_that_live_in/",
+    "matches": [
+      "mac",
+      "app",
+      "shortcut"
+    ],
+    "text": "https://reddit.com/link/1t5pu0c/video/g699d7lc0lzg1/player\n\n**Problem**: Every desktop pet app drops characters onto your wallpaper where they vanish behind windows. MenuBar Pets puts them in the menubar \u2014 always visible, never in the way.\n\n**Comparison**: Unlike Desktop Pets or Wunderbucket, these characters use lightweight WebP animations that are easy on your CPU. You can also make them clickable \u2014 link any pet to an app, URL, or Shortcut. Custom hanging characters are supported too.\n\n**Prici"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "SmartPic - Save what's important on your shot.",
+    "author": "ExternalAsk4818",
+    "ups": 24,
+    "url": "https://reddit.com/r/macapps/comments/1t5pbpe/smartpic_save_whats_important_on_your_shot/",
+    "matches": [
+      "mac",
+      "ai",
+      "context",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "**Problem:**\n\nThere are no Mac tools that provide fast, fully local AI functionality for photo editing. Cloud AI tools force monthly subscriptions, upload your private photos to remote servers, and waste the Neural Engine power already built into your Mac.\n\n**SmartPic**\u00a0allows you to easily edit photos using local AI on your Mac, powered by the M-series Neural Engine. It is a private, reliable, offline app with no cloud, no uploads, and no monthly subscriptions.\n\nMore than 300 people have alread"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Corel Painter Is Still Alive and Still Ridiculously Good",
+    "author": "amerpie",
+    "ups": 3,
+    "url": "https://reddit.com/r/macapps/comments/1t5n5yv/corel_painter_is_still_alive_and_still/",
+    "matches": [
+      "mac",
+      "ai",
+      "workflow",
+      "app",
+      "tool"
+    ],
+    "text": "[Corel Painter 2023](https://preview.redd.it/sk1as9d4jkzg1.png?width=1206&amp;format=png&amp;auto=webp&amp;s=e1b3e6fb15e31e4d3dd5a6fcb8569c0400cf977d)\n\n# Corel\u2019s Spot on Memory Lane\n\nI hadn\u2019t thought about [Corel](https://www.painterartist.com/en/) graphics apps in a long time until I saw their flagship app on sale recently. I got my first tech-related job in 1994, when my ability to figure things out in Windows 3.1 earned me a promotion from the manufacturing floor to the quality department at "
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Avocado update. Mac teleprompter",
+    "author": "aa33bb",
+    "ups": 7,
+    "url": "https://reddit.com/r/macapps/comments/1t5mw9x/avocado_update_mac_teleprompter/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "Some of you might have seen I\u00a0[posted](https://www.reddit.com/r/macapps/comments/1rx7lyl/avocado_lightweight_invisible_notchteleprompter/)\u00a0a little over a month ago about Avocado. Avocado is an invisible for screen sharing or recording teleprompter that hides in your notch, but can also float anywhere on the screen. Still free and has a one time payment to unlock all the features.\n\nDespite a very saturated space and a rather niche product, I got really positive feedback - a lot of people wanted "
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Rune, a lightweight native macOS client for Kubernetes",
+    "author": "NoPressure3399",
+    "ups": 7,
+    "url": "https://reddit.com/r/macapps/comments/1t5ir49/rune_a_lightweight_native_macos_client_for/",
+    "matches": [
+      "mac",
+      "ai",
+      "workflow",
+      "context",
+      "app",
+      "local"
+    ],
+    "text": "I\u2019m the developer of Rune. I work with Kubernetes every day and built Rune because there were a few workflows where I wanted something fast, smooth, stable, and native on macOS (and soon iOS).\n\nhttps://preview.redd.it/zl0xux1zrjzg1.png?width=3680&amp;format=png&amp;auto=webp&amp;s=8ad237f12c622c56f287d7ac58652bc7e48c5e9d\n\nhttps://preview.redd.it/ie3eqz1zrjzg1.png?width=3680&amp;format=png&amp;auto=webp&amp;s=a054a3151f5b034f5d9bc882155c0257d8db9efb\n\nhttps://preview.redd.it/7a0g0ad5sjzg1.png?widt"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "[OS] Free, Open Source, AI-driven user testing for iOS, macOS, and the web",
+    "author": "awizemann",
+    "ups": 27,
+    "url": "https://reddit.com/r/macapps/comments/1t5gd1l/os_free_open_source_aidriven_user_testing_for_ios/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "Hey MacApps! I'm Alan, I'm a developer that has been building Mac, iOS and web applications for over 30 years. Recently, I started a few Open Source projects and ran into the age old problem of user testing.... \n\n* **Problem:**\u00a0Developers have always been plagued by a problem: how do you user test when your application isn't ready for distribution yet? How do you maintain consistent user testing with different user personas after your application is released? This is the same issue regardless of"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "GooseNeck: Posture coach that uses your MacBook's hidden motion sensors instead of the webcam",
+    "author": "ThanHtutAg28",
+    "ups": 16,
+    "url": "https://reddit.com/r/macapps/comments/1t5cq8l/gooseneck_posture_coach_that_uses_your_macbooks/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "privacy"
+    ],
+    "text": "Your MacBook has motion sensors built into the hardware. Apple uses them internally for things like fall detection but never exposed them to developers. GooseNeck uses those sensors as a posture coach.\n\nNo camera. No external hardware. No cloud.\n\n**Problem**\n\nI slouch at my MacBook. You probably do too. Webcam posture apps work but the camera being always on feels invasive, plus they kill battery and run hot.\n\nPhysical posture straps end up in a drawer in a week. Apple Watch reminders only tell "
+  },
+  {
+    "subreddit": "macapps",
+    "title": "ExtraBar - A different approach to menu bar managers",
+    "author": "UnluckyDuckyDuck",
+    "ups": 73,
+    "url": "https://reddit.com/r/macapps/comments/1t5ccdx/extrabar_a_different_approach_to_menu_bar_managers/",
+    "matches": [
+      "mac",
+      "app",
+      "shortcut"
+    ],
+    "text": "Hey everybody!\n\nStarting from the beginning, after macOS Tahoe broke menu bar managers, we decided to tackle the menu bar ourselves, but not in a traditional way. We took another approach from the rest, creating a fully customizable \"replacement\" of sort to the menu bar.\n\nmacOS Tahoe brought the ability to cmd + drag away apps from the menu bar. Very handy if you want to clean and then only add the apps you want there, on top of that, [ExtraBar](https://extrabar.app/?ref=reddit) lets you customi"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "BoxReplay v1.1 - F1 screensaver for Mac",
+    "author": "Ok_Satisfaction9630",
+    "ups": 10,
+    "url": "https://reddit.com/r/macapps/comments/1t5bqkv/boxreplay_v11_f1_screensaver_for_mac/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "privacy"
+    ],
+    "text": "Hey everyone \u2014 I built\u00a0[Box Replay](https://box-replay.kochi.company/). a macOS ScreenSaver app which let's you replay the past f1 races on your Mac's lock screen.\n\nI have posted this here more than a month back, but unfortunately because of my own stupidity, it got removed since I hadn't provided enough details to ensure my transparency ( Restored after some hours, but lost a lot of visibility I think ). But the people who saw it then was really happy with it also had shared some bugs which hav"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Ikoi - Mac/iOS task manager organized around ADHD energy levels",
+    "author": "biricat",
+    "ups": 12,
+    "url": "https://reddit.com/r/macapps/comments/1t5bm5a/ikoi_macios_task_manager_organized_around_adhd/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "privacy"
+    ],
+    "text": "**The problem I kept hitting**: Most task managers aren't built for how an ADHD brain actually works. They assume every day looks the same, that a list of 47 things is motivating instead of paralyzing, and that \"overdue red\" is a useful signal instead of a guilt loop. They optimize for capture and infinite storage. The opposite of what helps when working memory is already cooked.\n\n**Why not just use Lunatask?**\u00a0Honestly, Lunatask is great and was one of my reference points. Privacy-first, habits"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Native English speakers: how does the app name \u201cTitta\u201d sound to you?",
+    "author": "Fn1-10",
+    "ups": 2,
+    "url": "https://reddit.com/r/macapps/comments/1t56uae/native_english_speakers_how_does_the_app_name/",
+    "matches": [
+      "mac",
+      "ai",
+      "workflow",
+      "app",
+      "tool"
+    ],
+    "text": "https://preview.redd.it/o63olhlk9hzg1.png?width=2078&amp;format=png&amp;auto=webp&amp;s=8c400d089a3569caadda087f9da0165e6d009aa3\n\nHi\u00a0[r/macapps](/r/macapps/)\n\nI\u2019m finishing a lightweight image viewer for macOS and I\u2019m still unsure about the name\u00a0**Titta**\u00a0(Swedish for \u201clook\u201d). While early testing, I\u2019ve received feedback that the word gives off an odd vibe in English, so I\u2019d love a quick sanity check.\n\n**What I\u2019d love from you**\n\n1. **First thought:**\u00a0When you read or hear \u201cTitta,\u201d what do you fe"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Hi Mac App devs - for those of you who encountered the \"Statuscode: 7000. Team ID not configured for notarization\", how log did it take to get resolved? Getting scared by some of the people reporting 3+ months....",
+    "author": "AntelopeTough1558",
+    "ups": 0,
+    "url": "https://reddit.com/r/macapps/comments/1t5486g/hi_mac_app_devs_for_those_of_you_who_encountered/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "This community has the most mac developers in it (as opposed to say, iosdev or appledev subs) so I'm hoping some of you may be keyed in on this situation and have some experience on the matter.\n\nI'm planning on self-hosting my app's .dmg file, and so I submitted it for notarization to Apple using the normal method. It was rejected and the reason given was that my ID wasn't yet configured by Apple to have my apps notarized. I followed the prescribed steps, including emailing Apple with the app id"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Is the \u201cwhatcable\u201d GitHub repository legit?",
+    "author": "nez329",
+    "ups": 6,
+    "url": "https://reddit.com/r/macapps/comments/1t4xpqz/is_the_whatcable_github_repository_legit/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Can someone confirm if the following website is legit?  \n\n[https://github.com/darrylmorley/whatcable](https://github.com/darrylmorley/whatcable)  \n\nBasically, I want to check if a USB-C to USB-C adapter supports 240W.  \n\nAI suggested me to use a free app called \"whatcable\" to test if it has the E-Marker feature.  \n\nThanks!"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "[Update] RevPDF 4.0: A completely free, offline Mac PDF editor with new OCR &amp; Batch Ops.",
+    "author": "Pawan315",
+    "ups": 144,
+    "url": "https://reddit.com/r/macapps/comments/1t4xe3d/update_revpdf_40_a_completely_free_offline_mac/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool",
+      "local",
+      "privacy"
+    ],
+    "text": "I just released version 4.0 of RevPDF with a brand new native-feeling UI, and I wanted to share it with the community.\n\n**Problem:**\u00a0Dealing with PDFs often means either using clunky, outdated software or being forced to upload your sensitive documents to a cloud server just to run editing, basic OCR, remove a password, or batch process files. It shouldn't be that hard to securely manage your documents.\n\n**Comparison:**\u00a0Compared to tools like Adobe Acrobat or PDF Expert, RevPDF 4.0 takes a diffe"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "DateDrop \u2014 drop a formatted date or time anywhere with a hotkey",
+    "author": "FlowIll9219",
+    "ups": 24,
+    "url": "https://reddit.com/r/macapps/comments/1t4wc5n/datedrop_drop_a_formatted_date_or_time_anywhere/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "Hey r/MacApps. Posting per Tier 1 (Mac App Store).\n\nProblem\n\nI kept losing 30 seconds every time I needed to share a meeting time across time zones, paste a timestamp into a doc, or write \"next Tuesday at 3 PM\" in a way that wouldn't get misread. Switching apps to find a date, copying it, formatting it, pasting it. DateDrop is a single global hotkey (default Ctrl+Shift+Cmd+D) that pops a small picker over whatever you're in. Pick a date, pick a time, pick the zones, hit Insert. The formatted str"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "[OS] iCanHazShortcut 2.0.0 - new major release for the 10-year anniversary of iCHS",
+    "author": "deseven",
+    "ups": 6,
+    "url": "https://reddit.com/r/macapps/comments/1t4vifw/os_icanhazshortcut_200_new_major_release_for_the/",
+    "matches": [
+      "mac",
+      "ai",
+      "shortcut"
+    ],
+    "text": "**Problem:**  \nSometimes you just need to run a terminal command by pressing some keys on your keyboard or by using a quickly accessible menu.\n\n**Comparison:**  \nTechnically you can achieve the same with Automator, which is included with every installed macOS. However, it's more annoying to set up, it's not really focused on just that and for some reason introduces a noticeable delay before execution.\n\n[iCHS 2.0](https://preview.redd.it/niwmikbveezg1.png?width=965&amp;format=png&amp;auto=webp&am"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "[OS] OpenPets - a Codex pet for all your Mac apps, agents and scripts",
+    "author": "samuelroy_",
+    "ups": 9,
+    "url": "https://reddit.com/r/macapps/comments/1t4rmdw/os_openpets_a_codex_pet_for_all_your_mac_apps/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "Hi\u00a0[r/macapps](https://www.reddit.com/r/macapps/),\n\nI\u2019m building OpenPets, an open-source swift library, CLI and macOS app that gives local tools one shared desktop pet for notifications.\n\n**Problem**\n\nCodex pets work only within the OpenAI ecosystem.\n\nThey are too cool, other apps should have them too.\n\nBut if every app comes with its own pet, it's pure chaos.\n\n**Comparison**\n\nIt's not doing anything by itself. It's like a fun notification center that developers and tinkerers can plug with thei"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Mojave Paint 1.0.0 is in the Mac App Store",
+    "author": "banana_zest",
+    "ups": 10,
+    "url": "https://reddit.com/r/macapps/comments/1t4res6/mojave_paint_100_is_in_the_mac_app_store/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "https://preview.redd.it/7z8p2csfmdzg1.png?width=1032&amp;format=png&amp;auto=webp&amp;s=7195faa23aa1768eea8c720070f1333004fa2edd\n\n**Problem/Comparison**: It seems like all the image editors out their are either a) AI obsessed, b) too content-forward (see [https://daringfireball.net/linked/2026/03/06/window-chrome-of-our-discontent](https://daringfireball.net/linked/2026/03/06/window-chrome-of-our-discontent)), c) expensive and/or subscription, d) not respecting the UI paradigms built into everyo"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Built a dictation app for Citrix/VDI/RDP (it types keystrokes, not paste)",
+    "author": "trioh281jsnf",
+    "ups": 1,
+    "url": "https://reddit.com/r/macapps/comments/1t4p99a/built_a_dictation_app_for_citrixvdirdp_it_types/",
+    "matches": [
+      "ai",
+      "app",
+      "local"
+    ],
+    "text": "I know there are a million dictation apps out there. I'm not gonna pretend this is some breakthrough. But I couldn't find one that solved the exact problem I kept running into, so I built DictaFlow.\n\n**Problem**\n\nI spend a lot of time in Citrix and remote desktop sessions for work. Every dictation app I tried relied on pasting text, and every remote client I used blocked paste. I'd dictate something, try to insert it, and nothing would happen. Sometimes it landed in the wrong window. Sometimes i"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Substage - A Natural Language Command Line Tool for Finder That Makes Life Easier",
+    "author": "amerpie",
+    "ups": 15,
+    "url": "https://reddit.com/r/macapps/comments/1t4oc6z/substage_a_natural_language_command_line_tool_for/",
+    "matches": [
+      "mac",
+      "productivity",
+      "ai",
+      "workflow",
+      "context",
+      "app",
+      "tool",
+      "shortcut",
+      "local"
+    ],
+    "text": "[Substage](https://preview.redd.it/s6ji1mki5dzg1.png?width=812&amp;format=png&amp;auto=webp&amp;s=e36900cb031822b20e3e7f4bfd9bf3194aec0611)\n\n[Substage](https://selkie.design/substage/) is a command bar that attaches underneath your Finder window.  To use Substage, you select files, type what you want in plain English, and Substage generates a Terminal command, simulates its side effects, and runs it (with confirmation where needed). Think of it less as an AI assistant and more as a natural langu"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Question about rules for posting and self promotion",
+    "author": "blaznos",
+    "ups": 10,
+    "url": "https://reddit.com/r/macapps/comments/1t4d1ga/question_about_rules_for_posting_and_self/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "privacy"
+    ],
+    "text": "I recently posted an open source [app](https://www.reddit.com/r/macapps/comments/1t1i119) here. Some people asked about notarization/updates/features. If I post an update for a new version, that for example adds Apple notarization and Sparkle for updates, does it count as self promotion? Not sure how else to communicate other than here and GitHub.\n\n&gt;it is not permitted more than once per developer in 30 days. This is counted from the last app post, even if it was removed.\u00a0**For established, A"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Making Contacts Work with Android phone and MacBook",
+    "author": "itsdanielsultan",
+    "ups": 5,
+    "url": "https://reddit.com/r/macapps/comments/1t46v2r/making_contacts_work_with_android_phone_and/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "I\u2019m using an Android phone and a MacBook. Syncing contacts between Google and Apple is easy enough. The problem is that labels I create in Google Contacts on my phone don\u2019t carry over to Apple Contacts on my Mac. Doing it the other way around is even worse.\n\nI downloaded BusyContacts and Cardhop but I\u2019m not really sure what they\u2019re supposed to do here. Neither seems to actually sync labels/groups between Google and Apple.\n\nHas anyone found a Mac app that handles this? What\u2019s working for you?"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "Has anyone actually figured out Clicky?",
+    "author": "itsdanielsultan",
+    "ups": 0,
+    "url": "https://reddit.com/r/macapps/comments/1t45qs6/has_anyone_actually_figured_out_clicky/",
+    "matches": [
+      "ai",
+      "app",
+      "tool",
+      "shortcut"
+    ],
+    "text": "Has anyone tried Clicky? I find it both useful and confusing at the same time.\n\nI saw Farza (the Buildspace guy) posting about it on Twitter and decided to try it out. The idea is cool. It\u2019s a little AI buddy that follows your cursor around and can see your screen when you activate it with Ctrl+Option. It runs on Claude under the hood and it\u2019s open source.\n\nIn theory it makes a lot of sense. You\u2019re stuck in an app, you hit the shortcut, it sees what you\u2019re looking at and helps you out. I\u2019ve seen"
+  },
+  {
+    "subreddit": "macapps",
+    "title": "[OS] TablePro: free native macOS database client. 18 databases, MCP server, iPad in TestFlight",
+    "author": "datlechin",
+    "ups": 170,
+    "url": "https://reddit.com/r/macapps/comments/1t45ql1/os_tablepro_free_native_macos_database_client_18/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "**Problem:** macOS doesn't have a great native, open-source database client. TablePlus is closed source and paid. Sequel Ace is MySQL only. DBeaver is Java  and feels like Java. i wanted one app that handles every DB i touch (relational, key-value, document, analytical, cloud), feels like a Mac app, and i can fix when something breaks.\n\n**Comparison:**\n\n* vs TablePlus: open source, free, supports 18 DB engines including ones TablePlus doesn't (etcd, Cloudflare D1, LibSQL, DynamoDB, ...), built-i"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "MacBook Apple native app issues",
+    "author": "Miserable_Ebb8357",
+    "ups": 1,
+    "url": "https://reddit.com/r/MacOS/comments/1t5ur77/macbook_apple_native_app_issues/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "My Macbook does not seem to be able to load any native apple maps, (iMsg, photos, apple tv, apple music) citing that it cannot connect with server. I tried force shutting down multiple times, changing wifi. Nothing seems to work.  \nIs there anything I can do?"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "macOS Tahoe is still beyond shit on my 2019 i9 MPB",
+    "author": "NoFall2205",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5ugkg/macos_tahoe_is_still_beyond_shit_on_my_2019_i9_mpb/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "My MPB is a 16 inch i9-9880H, 32gb memory, Radeon pro 5500m with 8gb.\n\nI gave up on Tahoe back in 26.2 and have downgraded to Sequoia since then. I've kept a separate partition for Tahoe and have been upgrading every time a new release has come out. I recently upgraded to 26.5 RC and it feels like absolutely nothing has changed. I'm still facing the same problems I've been having since 26.2: horrendous lag when basically doing anything, like switching desktops, moving windows around, opening Not"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Is it me or is finding old files in external USB3 2.5\" HDD's encrypted APFS TM slow?",
+    "author": "antdude",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5tggm/is_it_me_or_is_finding_old_files_in_external_usb3/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "With macOS' Finder, I was trying to find a specific decade old file in the old back up since 2025! It was connected to an 13\" Intel MBP with its macOS Sequoia v15.7.5. HDD is connected through Apple's USB-C Digital AV Multiport Adapter. Searching was slow in 2 5 TB HDDs with almost 100 GB free. :(\n\nThank you for reading and hopefully answering soon. :)"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Is Kaspersky worth it for Mac?",
+    "author": "Seliguinho",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5rhwu/is_kaspersky_worth_it_for_mac/",
+    "matches": [
+      "mac",
+      "productivity",
+      "ai",
+      "app",
+      "local"
+    ],
+    "text": "I have a premium subscription that my dad pays for it, but since I started running some local AIs, Kaspersky has slowed down significantly my productivity.\n\nThe only reason that I think is worth it is for scanning malware from the files/applications that I download."
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Screensharing NEVER WORKS",
+    "author": "jaceleak74",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5rffp/screensharing_never_works/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "I own a mac, I use the discord app. This thing has rejected me from streaming my screen  normally for YEARS. Ive turned hardware acceleration on and off on chrome and opera gx, but all I get is an unwatchable choppy video. I share my whole screen but it keeps lagging. Its embarrassing. Please help me"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "iCloud's 2.99$ 200GB filled up, so macOS silently deleted 25.000+ of my local files \u2014 broke git, Obsidian, AI agents, everything...",
+    "author": "Opening-Two3712",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5qnas/iclouds_299_200gb_filled_up_so_macos_silently/",
+    "matches": [
+      "mac",
+      "ai",
+      "local"
+    ],
+    "text": "PSA: I wanted to work on some of projects of mine , and the AI agent just stuck in the infinite loop of startup, I though it was sandboxing. but it was worse...  \n  \nI have a 512GB Mac with \\~50GB free. iCloud's free 200GB tier filled up. macOS decided the solution wasn't \"stop syncing\" it was \"evict local copies of 18,492 files (form my project) to the cloud to free up space, without telling me.\"\n\nThere was no F\\*\\*king notification. No dialog. No list. Just silent file removal, keeping only th"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Retrieve music playback info from command line",
+    "author": "RoughPutrid4502",
+    "ups": 1,
+    "url": "https://reddit.com/r/MacOS/comments/1t5p28x/retrieve_music_playback_info_from_command_line/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": "Hi,\n\nI am writing a python program which needs to read what music is currently playing on a mac. I currently have this working for linux using playerctl but am struggling to get it working on mac os (specifically Tahoe version 26.3.1). The music is playing using Qobuz so the usual osascript doesn't work.\n\nI have tried using [nowplaying cli](https://github.com/kirtan-shah/nowplaying-cli/tree/main) but this just returns null.\n\nIs there a way of doing this that I have missed or a way of getting osa"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "System Data using 275 GB on macOS \u2013 how can I find out what it is?",
+    "author": "_AffeMitWaffe_",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5l6bf/system_data_using_275_gb_on_macos_how_can_i_find/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "Hi everyone,\n\nI'm using a MacBook Pro M4 Pro with macOS Tahoe 26.4.1 and I noticed that my internal storage is almost full.\n\nThe biggest issue is clearly System Data, which is shown as **275.54 GB**. That seems extremely high to me, especially because macOS itself is only listed as 25.23 GB.\n\nDoes anyone know what could cause System Data to become this large?\n\nWhat would be the safest way to check what is actually using this space and clean it up without deleting anything important?\n\nI attached "
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Mail taking over 100 Gb of storage space",
+    "author": "Ismaestro",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5jehy/mail_taking_over_100_gb_of_storage_space/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "local"
+    ],
+    "text": "Hi everyone! I am a computer technician working at a school. The other day one of our users with an iMac called me because they didn't have enough disk space to install an app. When I checked, i saw that there was over 130 Gb used up by just his emails! I checked inside the mailboxes and there definitely wasn't enough to eat up so much.\n\nI don't have any experience with macs (this guy is the only user in the school with one for some reason) but after a while I found a folder In Library/Mail call"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Mi teclado VTA-85021 se desconecta solo de mi MacBook Air Tahoe 26.4.1",
+    "author": "mospal92",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5jc72/mi_teclado_vta85021_se_desconecta_solo_de_mi/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": "No s\u00e9 qu\u00e9 pasa, es un teclado inal\u00e1mbrico que compr\u00e9 en HomeCenter (Colombia) y si dejo de usar el teclado menos de 5 segundos, se desconecta solo. Alguien sabe a qu\u00e9 se debe esto? #MacbookAir #WirelessKeyBoard "
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "How I got persistent SMB shares working on macOS using the built-in autofs",
+    "author": "Hely0n",
+    "ups": 29,
+    "url": "https://reddit.com/r/MacOS/comments/1t5j9r4/how_i_got_persistent_smb_shares_working_on_macos/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "I finally found a reliable way to mount SMB shares on macOS persistently and automatically, similar to how mapped network drives work on Windows, so I\u2019m sharing it here in case someone else is struggling with the same thing.\n\nThis uses macOS\u2019 built-in `autofs`, works after reboot, reconnects automatically, and doesn\u2019t require any third-party apps or Finder login items.\n\n# 1. Create a mount folder\n\n    mkdir -p ~/Network\n\nYou can name this folder whatever you want.  \nI originally used my server n"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Normal, odd, planned or bug?",
+    "author": "NewtoQM8",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5id59/normal_odd_planned_or_bug/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "Awhile back I bought a base model Air M4 256gb storage. I have a 2017 iMac with 1 TB storage, and since there isn't much storage on the Air I try to keep it down (just use it for simple stuff). I have most everything in iCloud enabled. I noticed on the Air that Messages, according to system settings&gt;general&gt;storage, was taking up about 90GB of space. I went through Messages and deleted old and unused conversations. That had very little effect on storage. I went through many more and delete"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Reflex app (Stunt Siftware) on MacMini/ Thunderbolt Apple Display isn't working?",
+    "author": "ericsvl007",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5h23z/reflex_app_stunt_siftware_on_macmini_thunderbolt/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "Hi, When I use the volume up/down keys, it's always the global monitor volume which is changing while Musique or Spotify is selected from the Reflex top bar icon.   \nIs the the supposed behavior ?   \nThanks  \n(MacMini, MacOS 26 \u2014 Apple Thunderbolt Display 27p)"
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Why do my function keys keep enabling themselves?",
+    "author": "Accomplished-Fill-57",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5froz/why_do_my_function_keys_keep_enabling_themselves/",
+    "matches": [
+      "mac",
+      "shortcut"
+    ],
+    "text": "System: Tahoe 26.3.1\n\nhttps://preview.redd.it/p7jyiqri9jzg1.jpg?width=694&amp;format=pjpg&amp;auto=webp&amp;s=46eff64ff9650b647127ed6798943f2d26fead01\n\nFor the past few days, my F1\u2013F12 keys have been periodically switching themselves to \"standard function keys.\" I turn the setting off, but it toggles back on after a while\u2014I can't pinpoint the exact interval. However, it is definitely enabled every time I restart the system.\n\n\n\nTwo months ago, I used Shortcuts to create a quick toggle for the FN "
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "where to get clear list of ALL updates in a version?",
+    "author": "Original_Vacation655",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOS/comments/1t5eqdh/where_to_get_clear_list_of_all_updates_in_a/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "Hi Folks, I'm finding it very difficult to get a definitive list of updates in versions both iOS and macOS.  Where do you all go for this?  Apple itself is even very vague and their articles are circular on the topic.   thanks."
+  },
+  {
+    "subreddit": "MacOS",
+    "title": "Magic Keyboard and Trackpad can no longer be paired simultaneously",
+    "author": "wordthompsonian",
+    "ups": 1,
+    "url": "https://reddit.com/r/MacOS/comments/1t5dy3y/magic_keyboard_and_trackpad_can_no_longer_be/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": "I have used my Macbook Air (2020, M1) with a paired Magic Keyboard and a Magic Trackpad with no issue for over a year now since I got them. Recently I am running into an issue where only one can be connected at a time. If I turn the keyboard on first, I cannot connect the trackpad. If I turn on the trackpad first, I cannot connect the keyboard. \n\nI have forgotten both devices and re-paired them and I get the same issue. The devices are visible in the bluetooth manager but clicking the connect bu"
+  },
+  {
+    "subreddit": "productivity",
+    "title": "Scroll until you see something negative",
+    "author": "Big_Metal9830",
+    "ups": 3,
+    "url": "https://reddit.com/r/productivity/comments/1t5sdxu/scroll_until_you_see_something_negative/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "This is a random thing I started doing to help fix my scrolling habit, because I know scrolling doesn't make me feel good. I like seeing posts about the shows I'm interested in, but I know I see so much negativity that it effects my mood.\n\n  \nSo now I've given myself the rule that I'm allowed to scroll until I see something that hurts my mood. Guess how long it took on X? 1 post. On Reddit? 1 post. \n\n  \nI like this because it helps me remember why I want to quit scrolling. And I always end up sc"
+  },
+  {
+    "subreddit": "productivity",
+    "title": "The scroll-back loop is wasting more of my time than I realized",
+    "author": "nosebreather-",
+    "ups": 4,
+    "url": "https://reddit.com/r/productivity/comments/1t5cncx/the_scrollback_loop_is_wasting_more_of_my_time/",
+    "matches": [
+      "ai",
+      "context",
+      "app"
+    ],
+    "text": "I\u2019ve started noticing this pattern in how I browse and work online something like when I come across something useful, I keep moving and almost immediately need that thing again and the only thing i can do is scrolling back to find it. It happens constantly.\n\nWhat feels like a quick check turns into breaking focus, re-scanning, and trying to relocate one specific detail I *just* saw.\n\nIndividually it\u2019s small, but it keeps interrupting momentum. Instead of moving forward, I\u2019m repeatedly going bac"
+  },
+  {
+    "subreddit": "productivity",
+    "title": "I simplified my workflow into 5 systems, actually helped more than I expected",
+    "author": "Its_imoji",
+    "ups": 10,
+    "url": "https://reddit.com/r/productivity/comments/1t4tp9w/i_simplified_my_workflow_into_5_systems_actually/",
+    "matches": [
+      "productivity",
+      "ai",
+      "workflow",
+      "app",
+      "tool"
+    ],
+    "text": "For a long time I felt like my work was scattered. Too many tools, too many decisions, and no real structure. I\u2019d spend time planning, organizing, trying different apps, but when it came to actually working, things still felt messy.\n\nSo I simplified everything into 5 basic systems:\n\n* daily planning\n* file organization\n* meeting notes\n* communication\n* weekly review\n\nNothing complicated, just simple processes I can repeat. What surprised me most wasn\u2019t just productivity, it was how much mental n"
+  },
+  {
+    "subreddit": "productivity",
+    "title": "spent the last few months testing AI agent apps on my phone. honest rundown of what actually works",
+    "author": "mobi_irmo",
+    "ups": 1,
+    "url": "https://reddit.com/r/productivity/comments/1t4st4f/spent_the_last_few_months_testing_ai_agent_apps/",
+    "matches": [
+      "ai",
+      "workflow",
+      "context",
+      "app",
+      "tool",
+      "shortcut"
+    ],
+    "text": "the AI agent space on iOS is genuinely confusing right now. half the apps calling themselves agentic AI are basically chatbots with branding. so here's what I actually use after testing a bunch.\n\ncontext: I work mostly in email and calendar all day, wanted real AI agents that take action, not another tool that tells me what to do.\n\n**Claude (iOS app)**\u00a0the strongest reasoning of any chat app I've used. iOS app got really good in the last year and the agent features they're adding are interesting"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Open App Store Updates",
+    "author": "mabbutt",
+    "ups": 2,
+    "url": "https://reddit.com/r/shortcuts/comments/1t5uru5/open_app_store_updates/",
+    "matches": [
+      "app",
+      "shortcut"
+    ],
+    "text": "Just a simple update for the change in the App Store recently so that the popular App Store updates screen opens with one click.\n\nIf you prefer to long press on the App Store icon and then use a 2nd action to open the updates page that also works.\n\nDownload the shortcut here:\n\nhttps://www.icloud.com/shortcuts/3b150801d6a54baf9948ab149320aef8"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Shortcuts are not syncing between different devices",
+    "author": "sonsduvin",
+    "ups": 1,
+    "url": "https://reddit.com/r/shortcuts/comments/1t5miw9/shortcuts_are_not_syncing_between_different/",
+    "matches": [
+      "ai",
+      "app",
+      "shortcut"
+    ],
+    "text": "iPhone 13 Pro Max (iOS 26.4.2) and iPhone X (iOS 16.7.15), both on the latest available software.\n\nThe iPhone 13 is my main phone and it syncs perfectly with all my other devices except this specific iPhone X. I have restarted, reseted, logged out, logged off and nothing seems to work. All other apps like Reminders and Notes sync perfectly fine, but Shortcuts is the only app that seems to resist.\n\nI also tried to create a new shortcut on both devices and see if one pushes changes onto the other "
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Color filters",
+    "author": "babag23",
+    "ups": 1,
+    "url": "https://reddit.com/r/shortcuts/comments/1t5mik4/color_filters/",
+    "matches": [
+      "automation",
+      "shortcut"
+    ],
+    "text": "Is there a way to setup an automation shortcut for ios.  \nWhere I can select the color filter.\n\nI currently have that at sunset to turn on color filter with a red color tint, but I want to have an automation to run grayscale during sunrise and red color tint at sun set.\n\nThe shortcut by itself only toggles on and off but doesn\u2019t have an option to choose custom settings "
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "I built a free Apple Shortcut for downloading Reels/TikToks because All Media Downloader or Ultimate Media Downloader kept breaking",
+    "author": "AdityaR_Sharma",
+    "ups": 16,
+    "url": "https://reddit.com/r/shortcuts/comments/1t5fkgf/i_built_a_free_apple_shortcut_for_downloading/",
+    "matches": [
+      "ai",
+      "app",
+      "shortcut"
+    ],
+    "text": "I got tired of this small but annoying iPhone problem: almost every media downloader Shortcut I tried was either broken, abandoned, or unreliable.\n\nI tried the usual ones like All Media Downloader and Ultimate Media Downloader, but they either stopped working, depended on dead APIs, or became too inconsistent to rely on.\n\nEvery time I wanted to save an Instagram Reel or a TikTok, the other options were not much better: random downloader sites full of redirects, sketchy apps asking for too much a"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Can\u2019t figure out an automation problem",
+    "author": "craving_chaos",
+    "ups": 0,
+    "url": "https://reddit.com/r/shortcuts/comments/1t5dnjv/cant_figure_out_an_automation_problem/",
+    "matches": [
+      "ai",
+      "automation",
+      "shortcut"
+    ],
+    "text": "I\u2019m trying to make an automation to run once a week for when I arrive home between the later hours of the day. \nI\u2019m able to make it either once a week at a specific time like 3:00, or I can make it every day between certain hours. But I can\u2019t figure out how to make it only once a week during specified hours. Any help or a link to a similar shortcut would be helpful"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Shortcut temporarily not working after restarting iphone",
+    "author": "erdem98_",
+    "ups": 2,
+    "url": "https://reddit.com/r/shortcuts/comments/1t5cn5k/shortcut_temporarily_not_working_after_restarting/",
+    "matches": [
+      "app",
+      "shortcut"
+    ],
+    "text": "I have an appblock app and set up a shortcut task so I can not easily disable screentime restrictions in settings, however when I restart the iphone there is a short period where the shortcut task is not active. For me it is tempting to then disable the screentime restrictions in settings, is there a way to enable the shortcut task to start immediately when I have restarted my iphone?"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Anyone using Matrix element X shortcuts",
+    "author": "GamerRadar",
+    "ups": 1,
+    "url": "https://reddit.com/r/shortcuts/comments/1t5b1ty/anyone_using_matrix_element_x_shortcuts/",
+    "matches": [
+      "app",
+      "shortcut"
+    ],
+    "text": "I\u2019ve been using the Element X app for the matrix protocol. I was wondering if anyone has use this program or application should I say with Apple\u2018s iOS Shortcuts?\n\n I\u2019m looking to have a message automatically start with the Apple dictation however I cannot figure it out.\n\nLooking for any help would be appreciated"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Shortcut to remove ORIGINAL photos saved by iOS and just keep the edited version?",
+    "author": "GIFSec",
+    "ups": 1,
+    "url": "https://reddit.com/r/shortcuts/comments/1t58ssz/shortcut_to_remove_original_photos_saved_by_ios/",
+    "matches": [
+      "mac",
+      "shortcut"
+    ],
+    "text": "I edit a lot of my photos on my iphone (basically running a script that adds extra sharpness etc to all photos) and iOS seems to be \"keeping\" the original version of the files hidden. \n\n\n\nIs there a shortcut or any other way to delete these original images and keep ONLY the edited version?\n\n\n\nI do know that i can import / export them via mac, but are there any other less time consuming way?  \n\n\n\nI work with many folders etc, so exporting them and importing them makes it a bit hard and time consu"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "second \u201cCamera app\u201d with Shortcuts (auto-save to album + timestamp)",
+    "author": "Final-Standard2679",
+    "ups": 1,
+    "url": "https://reddit.com/r/shortcuts/comments/1t586ju/second_camera_app_with_shortcuts_autosave_to/",
+    "matches": [
+      "ai",
+      "workflow",
+      "app",
+      "shortcut"
+    ],
+    "text": "Hi everyone,\n\n\n\nI\u2019m trying to create a workflow that mimics having a second camera app on my iPhone, dedicated to work photos.\n\n\n\nMy goal is:\n\n\\- Take photos like with the native Camera app (live preview, choose when to shoot, take multiple photos in a row)\n\n\\- Automatically save those photos into a specific album (e.g. \u201cWork\u201d) to keep them separate from personal photos\n\n\\- Ideally also add a timestamp (date + time) on the image afterward\n\n\n\nI\u2019ve tried several approaches, but each has limitation"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Different actions for different calendar events",
+    "author": "_umlaut",
+    "ups": 1,
+    "url": "https://reddit.com/r/shortcuts/comments/1t586fo/different_actions_for_different_calendar_events/",
+    "matches": [
+      "ai",
+      "shortcut"
+    ],
+    "text": "Hi all,\n\nI\u2019m trying to make a shortcut that checks my calendar for what shift I have the next day and set the alarm accordingly. However, I\u2019m running into the problem that when 1 shift is found but also another calendar event that the action(s) are not triggered correctly. \n\nThe shortcut is [found here.](https://www.icloud.com/shortcuts/d8093da1e37e479e8cedde5dd8f02c43)\n\nThe shortcut is intended to work as follows:  \nCheck calendar &gt; Display upcoming events (hence the **REPEAT**) &gt; If even"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "How To play a ringtone?",
+    "author": "Adventurous_Till_473",
+    "ups": 0,
+    "url": "https://reddit.com/r/shortcuts/comments/1t574ik/how_to_play_a_ringtone/",
+    "matches": [
+      "automation",
+      "app",
+      "shortcut"
+    ],
+    "text": "I setup my automation shortcut to play a song from my Music App when my battery level equals 80%. I would like it to play a Ringtone instead."
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "\u201eFind Message\u201c doesn\u2019t work anymore",
+    "author": "yipee_yohu743",
+    "ups": 1,
+    "url": "https://reddit.com/r/shortcuts/comments/1t4uyjq/find_message_doesnt_work_anymore/",
+    "matches": [
+      "ai",
+      "shortcut"
+    ],
+    "text": "Hi, I have a problem with the \u201cFind Messages\u201d action.\n\nWhen the filter \u201cBody\u201d \u2192 \u201ccontains\u201d is active, I get no results at all. Every other filter works fine, only this combination doesn\u2019t.\n\nThe issue is that I NEED this for a pretty big shortcut, which now doesn\u2019t work anymore.\n\nI have no idea why it suddenly stopped working. Has anyone else experienced this or knows a fix?"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Shortcut to Refresh SideStore-Apps",
+    "author": "TheBeastOrSomething",
+    "ups": 5,
+    "url": "https://reddit.com/r/shortcuts/comments/1t4tkcq/shortcut_to_refresh_sidestoreapps/",
+    "matches": [
+      "ai",
+      "automation",
+      "app",
+      "shortcut",
+      "local"
+    ],
+    "text": "Hello everyone\n\nI've created a shortcut, that refreshes automatically the LiveContainer in the SideStore-App.  \nPrerequisite:\n\n* LiveContainer+Sidestore(Nightly)(v. 3.7.6)\n* DataJar-App via the App Store\n* LocalDevVPN via the App Store\n* Shortcut App \ud83d\ude1b\n\nAfter you've imported the shortcut, make sure to activate the automation:\n\nhttps://preview.redd.it/zna0kas53ezg1.jpg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=40a57e06d013e69f996e56aad2e8f190fc7bb999\n\nHere the Link to the Shortcut:  \n[https:"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "How to create a scheduled, automated Shortcut to play a certain audio file? (iOS 18)",
+    "author": "Underdogg992020",
+    "ups": 1,
+    "url": "https://reddit.com/r/shortcuts/comments/1t4qpbo/how_to_create_a_scheduled_automated_shortcut_to/",
+    "matches": [
+      "ai",
+      "automation",
+      "app",
+      "shortcut"
+    ],
+    "text": "There\u2019s got to be some way to do it, right?\n\nIn Shortcuts, I created an automation, scheduled it to \u201crun immediately\u201c at 7:45am, then used DO: Open File to specify the filename and the (default) app to play it with\u2026. But that seems to only OPEN the default app, not actually PLAY the file.\n\nThat was the step-by-step I found elsewhere online but it ain\u2019t quite right. Any ideas?"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Mac Automator custom Quick Action troubleshooting?",
+    "author": "ItsWINTERFRESH",
+    "ups": 1,
+    "url": "https://reddit.com/r/shortcuts/comments/1t4l8jz/mac_automator_custom_quick_action_troubleshooting/",
+    "matches": [
+      "mac",
+      "workflow"
+    ],
+    "text": "I tried following this reddit post:\n\n[https://www.reddit.com/r/MacOS/comments/1krrfze/customize\\_quick\\_action\\_right\\_click/](https://www.reddit.com/r/MacOS/comments/1krrfze/customize_quick_action_right_click/)\n\n(as well as the post that OP linked in his). I have been unable to add a custom quick action to my finder. I find myself very frequently having to create blank text files deep in finder folders. My current method is to open terminal, cd + (drag pwd in) and then \"touch text.txt\". it work"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "iOS Calendar link",
+    "author": "Sea-Exit-1514",
+    "ups": 2,
+    "url": "https://reddit.com/r/shortcuts/comments/1t4kddb/ios_calendar_link/",
+    "matches": [
+      "app",
+      "shortcut"
+    ],
+    "text": "I have a shortcut that I use to document my appointments in the Bear app. I would like to link from that note to the corresponding iOS calendar event. How can I do that?"
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "[IOS] Here is the deep link to open the updates page in the App Store.",
+    "author": "Reach-for-the-sky_15",
+    "ups": 60,
+    "url": "https://reddit.com/r/shortcuts/comments/1t4iyco/ios_here_is_the_deep_link_to_open_the_updates/",
+    "matches": [
+      "app",
+      "shortcut"
+    ],
+    "text": "itms-apps://apps.apple.com/updates\n\n[https://www.icloud.com/shortcuts/985456af1a2341cc9f1d5f38fbc9fa7c](https://www.icloud.com/shortcuts/985456af1a2341cc9f1d5f38fbc9fa7c)\n\nIOS apps do auto update, but developers can choose to push out app updates in stages if they want.  \nThis is a way to force the update page to refresh and manually update them if you want the newest version."
+  },
+  {
+    "subreddit": "shortcuts",
+    "title": "Someone said that I could add shortcuts to the empty space below the icons. Is this true? And if so, how? Thank you",
+    "author": "PseudoLink",
+    "ups": 126,
+    "url": "https://reddit.com/r/shortcuts/comments/1t48nsx/someone_said_that_i_could_add_shortcuts_to_the/",
+    "matches": [
+      "ai",
+      "shortcut"
+    ],
+    "text": ""
+  },
+  {
+    "subreddit": "KeyboardMaestro",
+    "title": "Keyboard Maestro TV \u2013 Control Your Mac\u2019s Keyboard Maestro Scripts from Your Android TV",
+    "author": "DiggingForDinos",
+    "ups": 5,
+    "url": "https://reddit.com/r/KeyboardMaestro/comments/1np9tm6/keyboard_maestro_tv_control_your_macs_keyboard/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "I wanted a way to run Keyboard Maestro scripts from my couch, so I created Keyboard Maestro TV. It\u2019s a free, open-source Android TV app that lets you run Keyboard Maestro scripts on your Mac\u2014no need to get up.\n\n* macOS-inspired interface\n* Works on Android TV, phones, and tablets\n* D-pad and touch support\n* Easy setup: enable Keyboard Maestro\u2019s web server, enter your Mac\u2019s IP, done\n\nThe APK is available to sideload, and you can grab both the APK and the source code here: [https://github.com/saih"
+  },
+  {
+    "subreddit": "KeyboardMaestro",
+    "title": "Need Help Reassigning a Hotkey Combo in Elgato Camera Hub app on MacOS.",
+    "author": "OriginalPunkNugget",
+    "ups": 2,
+    "url": "https://reddit.com/r/KeyboardMaestro/comments/1n66u93/need_help_reassigning_a_hotkey_combo_in_elgato/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "How would you reassign a hotkey combo on a Elgato's app? Here's the link to use the **Elgato Prompter - Global Hotkeys:** \\- [https://help.elgato.com/hc/en-us/articles/30331550673037-Elgato-Prompter-Global-Hotkeys](https://help.elgato.com/hc/en-us/articles/30331550673037-Elgato-Prompter-Global-Hotkeys) \\- Currently, I'm using the **Elgato Camera Hub** app on **macOS** and **FIRST**, you have to go into apps \"**Preferences**\" and **check \"ON\"** \\- \"**Control Prompter Script with Hotkeys**.\" And t"
+  },
+  {
+    "subreddit": "KeyboardMaestro",
+    "title": "Ouch! Macro accidentally deleted!",
+    "author": "Relevant_Contact_358",
+    "ups": 2,
+    "url": "https://reddit.com/r/KeyboardMaestro/comments/1mq9quj/ouch_macro_accidentally_deleted/",
+    "matches": [
+      "mac",
+      "context"
+    ],
+    "text": "Is there any trick to bring an accidentally deleted macro back?  \nI built a macro the whole afternoon and the macro accidentally selected \"delete\" from the menu in a wrong context. Ctrl-Z doesn't seem to be able to bring it back...\ud83d\ude2d"
+  },
+  {
+    "subreddit": "KeyboardMaestro",
+    "title": "Keyboard Maestro for a non programmer",
+    "author": "Professional-Lead729",
+    "ups": 3,
+    "url": "https://reddit.com/r/KeyboardMaestro/comments/1m9recc/keyboard_maestro_for_a_non_programmer/",
+    "matches": [
+      "ai",
+      "app",
+      "shortcut"
+    ],
+    "text": "I really like the kinds of things I see people doing with KM. But I really don't know how to code; I've used gemini to put together a few apple scripts, and that's the extent of it. \n\nI would *like* to use KM to automatically take care of payroll and benefits for me. This would mean receiving an email,  logging into the appropriate website, navigating to the appropriate page and tab via text entry and clicks, entering the appropriate data (from the email) in the appropriate place, and saving it."
+  },
+  {
+    "subreddit": "KeyboardMaestro",
+    "title": "L/R CMD Trigger to open Apps",
+    "author": "willsue4food",
+    "ups": 1,
+    "url": "https://reddit.com/r/KeyboardMaestro/comments/1lcg8lx/lr_cmd_trigger_to_open_apps/",
+    "matches": [
+      "mac",
+      "app",
+      "shortcut"
+    ],
+    "text": "I have a macro that works great to figure out if I am using the Left or Right Command button, so I can then set a hotkey to only the Right Command.  My problem is that I can get it to work for a Safari shortcut (e.g., launch Bluesky with \u2318 B), but it will not work to launch an Application.  I have tried with both Open a File, Folder or Application (selection open the App with Finder), as well as Activate, but Open doesn't work, and Activate will only work if the App is already running.  Any idea"
+  },
+  {
+    "subreddit": "KeyboardMaestro",
+    "title": "It's like they knew...",
+    "author": "Big_Bad8496",
+    "ups": 16,
+    "url": "https://reddit.com/r/KeyboardMaestro/comments/1l4y09g/its_like_they_knew/",
+    "matches": [
+      "mac",
+      "ai",
+      "automation"
+    ],
+    "text": "(I promise this post is about Keyboard Maestro - it just doesn't start that way)\n\nI've been using LastPass for years (please don't come at me about the data breach) and about once or twice a week, I go through the same process of making a specific series of exactly 12 clicks around the screen. This means I've had to scan the screen and click about 2,808 times in the last three years - which probably took about 8 hours.\n\nLast week, I (36m automation professional) thought, \"God, why am I doing thi"
+  },
+  {
+    "subreddit": "KeyboardMaestro",
+    "title": "Macro Management Question(s), or what is the best way to activate a pallette of macros that ISN'T hot key based?",
+    "author": "WheeledGnosis",
+    "ups": 4,
+    "url": "https://reddit.com/r/KeyboardMaestro/comments/1knej1i/macro_management_questions_or_what_is_the_best/",
+    "matches": [
+      "mac",
+      "workflow",
+      "context",
+      "app"
+    ],
+    "text": "Hi fine peoples of the Internet! As the title of this post would suggest, I am looking for a more efficient way to manage my existing macros, and add new ones! \n\nFirst, some related questions:\n\n1) How many macros can a single pallette hold without affecting run time performance?\n\n2) Same question, but for macro groups.\n\n3) What if any difference is there between displaying a macro group in the menu bar, and a status bar trigger? Are they the same thing under different names? \n\nOkay, now some con"
+  },
+  {
+    "subreddit": "KeyboardMaestro",
+    "title": "Running KM off a hard drive. I quit KM. Drive won't unmount because KM is still using it. Thoughts?",
+    "author": "No_Can_5251",
+    "ups": 1,
+    "url": "https://reddit.com/r/KeyboardMaestro/comments/1k4hrz7/running_km_off_a_hard_drive_i_quit_km_drive_wont/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "Should I cave and use KM on the machine itself? I would rather keep it on a drive because I bounce around to a lot of machines in my office and don't want my macros interfering with other users. \n\n  \nEven when KM is not active, I still am unable to unmount the drive safely because I'm getting a \"The disk wasn't ejected because one or more programs may be using it.\" I'm fairly certain it's KM because I only have this problem when I've opened up KM on the drive.\n\n**Machine specs:**  \n  Model Name:"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "Streaks in productivity apps: motivating or exhausting?",
+    "author": "Constant_Track_6520",
+    "ups": 1,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5trp0/streaks_in_productivity_apps_motivating_or/",
+    "matches": [
+      "productivity",
+      "ai",
+      "app"
+    ],
+    "text": "I'm building a productivity app and honestly can't figure out how people feel about streaks anymore.\n\nLike, the psychology makes sense. Loss aversion is real, nobody wants to break a 30-day run. But at some point does that pressure stop feeling like motivation and start feeling like a chore?\n\nAnd what happens when life gets in the way, a crazy week, travel, getting sick, and the streak breaks? Do you shake it off and restart, or does that feel like enough of a reason to just drop the app entirel"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "Built a fun Pomodoro app and got accepted first time",
+    "author": "PickleComfortable798",
+    "ups": 3,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5on6c/built_a_fun_pomodoro_app_and_got_accepted_first/",
+    "matches": [
+      "ai",
+      "app",
+      "local",
+      "privacy"
+    ],
+    "text": "So i built a few apps now using Expo Go and React native for a while, but [Flight Focus](https://apps.apple.com/us/app/pomodoro-timer-focus-flight/id6766221228) has to be my favourite so far. The concept of Pomodoro is quite simple, but i wanted to give it a twist so if you just want to focus or study this is for you.\n\nIt is quite easy to build apps with AI these days, and a lot of people are quick to tear down those who do but i wanted to challenge myself this time and build something that is q"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "Built a minimal app to organize shifts, hours and earnings without the clutter",
+    "author": "dmitr13v",
+    "ups": 5,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5o5dm/built_a_minimal_app_to_organize_shifts_hours_and/",
+    "matches": [
+      "productivity",
+      "ai",
+      "workflow",
+      "app"
+    ],
+    "text": "Hey everyone,\n\nI recently launched Plera - a minimal iPhone app for people working shifts.\n\nMain focus:  \n\u2022 shift schedules  \n\u2022 hours tracking  \n\u2022 earnings tracking  \n\u2022 availability tracking\n\nI noticed many scheduling apps became overloaded with features and complicated workflows, so I wanted to build something calmer, cleaner and easier to use every day.\n\nWould genuinely love feedback from people who use productivity or scheduling apps regularly.\n\nApp Store:  \n[https://apps.apple.com/us/app/shi"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "this app keeps showing up on my fyp lately. any thougts?",
+    "author": "_-bobo-_10",
+    "ups": 1,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5mpu7/this_app_keeps_showing_up_on_my_fyp_lately_any/",
+    "matches": [
+      "productivity",
+      "app"
+    ],
+    "text": "saw this tiktok about a new ios app called cadence. concept is really different. it asks how you feel each morning and schedules your tasks around your energy levels. don\u2019t think it\u2019s launched yet but the demo looked clean. [https://www.tiktok.com/@cadence.productivity?\\_r=1&amp;\\_t=ZN-968sqUTkZew](https://www.tiktok.com/@cadence.productivity?_r=1&amp;_t=ZN-968sqUTkZew)  \nanyone else seen this or tried it?"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "Ultimate App for Making Beautiful Device Mockups &amp; Screenshots",
+    "author": "world1dan",
+    "ups": 3,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5m16n/ultimate_app_for_making_beautiful_device_mockups/",
+    "matches": [
+      "app",
+      "tool"
+    ],
+    "text": "Hey!\n\nI made an app that makes it incredibly easy to create stunning mockups and screenshots - perfect for showing off your app, website, product designs, or social media posts.\n\n\u2728\u00a0**Features**\n\n* **URL -&gt; Website Screenshot**\n* **Video Support &amp; Animations**\n* **30+ Mockup Devices &amp; Browser Frames**\n* **Auto Backgrounds**\n* **Annotation Tool**\n\n**Try it out:**\u00a0[https://postspark.app/device-mockup](https://postspark.app/device-mockup)\n\nWould love to hear what you think!"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "Non\u2011Engineers Shipping Production Code\u2026 What Does That Even Mean for Tech Roles?",
+    "author": "Head-Excitement6879",
+    "ups": 1,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5ln2s/nonengineers_shipping_production_code_what_does/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "I\u2019m seeing more companies report that non\u2011technical teams are now shipping production\u2011level code with AI tools.\n\n  \nIf that becomes normal, what does \u201cengineering\u201d even mean in 5 years?\n\n  \nNot disappearing \u2014 but the role is definitely mutating."
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "I built a free daily planner for people tired of bloated productivity tools - looking for honest feedback",
+    "author": "Maximum_Specialist65",
+    "ups": 2,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5k472/i_built_a_free_daily_planner_for_people_tired_of/",
+    "matches": [
+      "productivity",
+      "ai",
+      "tool"
+    ],
+    "text": "I kept running into the same problem with productivity tools: the system became another thing to maintain.\n\nSo I built a small browser-based daily planner around a simpler flow:\n\n* write one intention for the day\n* capture tasks, notes and ideas in one place\n* keep weekly goals limited\n* end the day with a short reflection\n* avoid turning personal planning into project management\n\nIt is called Veltor Agenda and it is free. No credit card.\n\nI'm not trying to pitch it as a magic productivity solut"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "[iOS] [\u2192 Free] valenta: health tracker \u2014 track your whole health in seconds!",
+    "author": "Dapper-Weight4039",
+    "ups": 2,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5in7o/ios_free_valenta_health_tracker_track_your_whole/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Valenta Health Track \u2013 Version 2.0 Update\n\n\n\nWe\u2019ve completely reimagined and enhanced your experience with a major update packed with new features, improvements, and fixes.\n\n\n\nWhat\u2019s New &amp; Improved:\n\n\n\nModern Dark &amp; Light Mode\n\nChoose the interface that fits your style and comfort. Whether you prefer a clean light look or a sleek dark theme, Valenta adapts to you.\n\nExpanded Language Support\n\nThe app is now more accessible with additional language options, making it easier for users aroun"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "I\u2019ve tried a lot of habit tracking apps, and honestly most of them made me feel worse over time.",
+    "author": "Zicas_2779",
+    "ups": 3,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5i7qf/ive_tried_a_lot_of_habit_tracking_apps_and/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "The biggest issue for me was streaks. If I planned something like going to the gym 3x per week, missing one specific day would break everything, even if I still hit my weekly goal. It always felt like the app was working *against* me instead of helping.\n\nI recently tried an app called HabitSet, and it\u2019s the first one that actually matches how I think about habits.\n\nA few things that stood out:\n\n\u2022 It supports weekly and monthly habits properly  \nInstead of forcing everything into daily streaks, I"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "I think most people don\u2019t need more productivity hacks.",
+    "author": "Superb-Way-6084",
+    "ups": 0,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5i1fl/i_think_most_people_dont_need_more_productivity/",
+    "matches": [
+      "productivity",
+      "app",
+      "tool"
+    ],
+    "text": "They need less mental friction.\n\nThe biggest improvements for me came from:\n\n* fewer taps\n* faster capture\n* simpler lists\n* not hiding everything behind folders/submenus\n* tools that don\u2019t make me feel guilty for missing a day\n\nModern productivity apps are becoming feature-heavy but mentally exhausting.\n\nCurious what people here think:  \nDoes simplicity actually improve consistency?"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "the reason your brain dump isn't working is probably not what you think",
+    "author": "Due_Psychology9329",
+    "ups": 1,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5gqka/the_reason_your_brain_dump_isnt_working_is/",
+    "matches": [
+      "ai",
+      "app",
+      "tool",
+      "local",
+      "privacy"
+    ],
+    "text": "i'd been doing brain dumps for months. blank page, dump everything, pick three things.\n\nit helped. but something felt off. the clarity wasn't as sharp as i expected.\n\nthen i realised what i was doing.\n\ni was self censoring. every time i typed a brain dump i was unconsciously sanitising it. vague descriptions instead of real situations. \"colleague issue\" instead of what actually happened. \"work stress\" instead of the specific thing keeping me up at night.\n\nbecause somewhere in the back of my mind"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "Building an offline-first productivity app focused on simplicity, accessibility &amp; real daily use.",
+    "author": "LifeOrganization01",
+    "ups": 6,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5fl5q/building_an_offlinefirst_productivity_app_focused/",
+    "matches": [
+      "productivity",
+      "ai",
+      "app"
+    ],
+    "text": "I\u2019ve been working on an offline-first productivity app called LifeOrder.\n\nThe original goal was actually pretty simple:\n\nreduce daily chaos without creating another overly complicated productivity system.\n\nLifeOrder currently includes:\n\n\u2022 Tasks / To-Dos\n\n\u2022 Schedule &amp; reminders\n\n\u2022 Shopping lists\n\n\u2022 Expense tracking\n\n\u2022 Family / kids organization\n\n\u2022 Voice input\n\n\u2022 Fully offline usage (no account required)\n\nOne thing I focused on recently was accessibility.\n\nIn the latest update I improved scree"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "We're running a spring offer for Gistr: 35% off, for the next few days",
+    "author": "Alone-Gur-1791",
+    "ups": 2,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t5aqlp/were_running_a_spring_offer_for_gistr_35_off_for/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "As a thank you for being here: 35% off all plans, locked in for the life of your subscription. Already on a paid plan? Thank you. It matters more than you know.\n\nIf you haven't tried\u00a0[Gistr](https://gistr.so/), it's learning and research tool. You can import any source: YouTube video, PDF, podcast, article, and then create notes, ask questions, annotate it, and connect it to whatever you're learning or researching. Gistr helps you build a knowledge base which compounds over time."
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "What do you actually want from an all-in-one productivity app?",
+    "author": "AmbitiousRegular8667",
+    "ups": 3,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t59s1r/what_do_you_actually_want_from_an_allinone/",
+    "matches": [
+      "productivity",
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "I\u2019m curious what people actually want from an all-in-one productivity app.\n\nThere are so many tools now that combine tasks, calendars, notes, projects, AI, scheduling, docs, habits, and integrations, but a lot of them still end up feeling like more work to maintain.\n\nMy view is that a good productivity app should help you decide what matters next and reduce manual upkeep, not just store and track information.\n\nThat\u2019s the direction I\u2019m exploring with [Serena](https://withserena.ai): a task/projec"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "[Feedback Wanted] My attempt at fixing the \u201csaved for later\u201d graveyard problem - would love workflow critiques",
+    "author": "Ok_Cucumber_131",
+    "ups": 0,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t59noh/feedback_wanted_my_attempt_at_fixing_the_saved/",
+    "matches": [
+      "mac",
+      "ai",
+      "workflow",
+      "app"
+    ],
+    "text": "I\u2019m an indie dev and I built Stashd to solve a workflow problem I had personally. Sharing it here because I want feedback on whether the underlying approach actually makes sense, not just polish notes.\n\nThe problem I was trying to solve:  \nI had at least 6 different \u201csave for later\u201d places: Notes, Reminders, screenshots, Safari Reading List, Slack saved messages, browser bookmarks. Each one solved a fragment of the problem and none of them solved retrieval. I\u2019d save a flight confirmation, a reci"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "I think there are 5 types of daily planning apps in 2026, and some people pick the wrong one and end up quitting",
+    "author": "Frequent-Football984",
+    "ups": 0,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t59dx1/i_think_there_are_5_types_of_daily_planning_apps/",
+    "matches": [
+      "productivity",
+      "ai",
+      "automation",
+      "context",
+      "app",
+      "tool"
+    ],
+    "text": "Every week someone asks \"what's the best daily planning app?\" and the replies are chaos because people are comparing tools that don't even solve the same problem.\n\nAfter spending way too much time in this space, I think the category has split into 5 clear types in 2026. Picking the right one matters more than picking the \"best\" one.\n\n1. To-do list apps - Todoist, TickTick, Microsoft To Do, Apple Reminders, Any.do.\n\nFast capture. Great if your main problem is remembering things. Weak when your da"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "The moment your productivity system becomes work, it stops working",
+    "author": "RefrigeratorNo1465",
+    "ups": 8,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t56e8h/the_moment_your_productivity_system_becomes_work/",
+    "matches": [
+      "productivity",
+      "ai",
+      "tool"
+    ],
+    "text": "I think most productivity tools fail in a subtle way.\n\n\n\nThey start by helping you\u2026\n\n\n\nbut slowly turn into something you have to maintain. \n\norganizing\n\nreviewing\n\ncarrying tasks forward\n\nand at some point, the tool itself becomes another task. The best systems I\u2019ve used are the ones I forget I\u2019m using. Curious \u2014 do you prefer structured systems or something more invisible?"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "FlowFloat(Always-on-top productivity suite) is Live For Windows.",
+    "author": "CriticalInitial85",
+    "ups": 15,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t55nkd/flowfloatalwaysontop_productivity_suite_is_live/",
+    "matches": [
+      "productivity",
+      "ai",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "The idea is simple \u2014 your tools should stay where you work, not buried inside other windows.\n\nFlowFloat floats above everything on your screen. One hotkey summons it. One hotkey hides it. You never Alt+Tab again.\n\nIncludes floating notes, tasks, timer, calendar, and a local AI assistant via Ollama or OpenAI key.\n\nJust shipped v1.  Available on Microsoft Store: [https://apps.microsoft.com/detail/9N0V5P8LTQMQ?hl=en-us&amp;gl=US&amp;ocid=pdpshare](https://apps.microsoft.com/detail/9N0V5P8LTQMQ?hl=e"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "Built an App to track all my GPT Programs cuz doing it in Notes was getting annoying",
+    "author": "AtmosphereFew6435",
+    "ups": 3,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t541pg/built_an_app_to_track_all_my_gpt_programs_cuz/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Hey yall,\n\nRecently I decided to build Stackd. Personal trainers are 200$ and I am starting college\u2026again\u2026so I been using GPT to make me workout and nutrition programs for past 4-5 months. It honestly works really well. However I\u2019ve found it really hard to keep track of all my chats. And honestly as much believe I am capable of picking my own workouts I am not competent.\n\nI also tried using AI workout generating apps but found it really difficult to adjust my program when multiple variables were"
+  },
+  {
+    "subreddit": "ProductivityApps",
+    "title": "Project Photos and notes",
+    "author": "news5555",
+    "ups": 1,
+    "url": "https://reddit.com/r/ProductivityApps/comments/1t540pk/project_photos_and_notes/",
+    "matches": [
+      "ai",
+      "automation",
+      "context",
+      "app"
+    ],
+    "text": "Basics of this app. Take photos of what ever project you are working on. You can add notes to each photo or to the project in general and all notes and photos are saved to your own cloud drive. Notes are Markdown so you don't need the app to read them even if you delete it.  \n  \nSo this app is mainly for my own personal use, the original version was a side load android app I made for myself in 2019 but now have made a flutter app so a handful of my friends could use it as well on both IOS and An"
+  },
+  {
+    "subreddit": "automation",
+    "title": "Sold $15K in AI automations by ignoring what everyone teaches",
+    "author": "OrinP_Frita",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t5wevm/sold_15k_in_ai_automations_by_ignoring_what/",
+    "matches": [
+      "ai",
+      "workflow",
+      "automation",
+      "app"
+    ],
+    "text": "I probably wasted a month building automations nobody actually used before I figured this out. I've made decent money selling AI automations, but the real lesson was why so many, of my early builds sat completely unused while clients went back to doing everything manually.\n\n  \nIntegration beats innovation every single time. Built a plumbing company an AI dispatch system that was technically flawless. They used it for three days. Their whole operation ran on group texts, sticky notes, and quick c"
+  },
+  {
+    "subreddit": "automation",
+    "title": "Workflow tools that actually fit how clients already work vs. ones that require habit change",
+    "author": "Such_Grace",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t5w8zq/workflow_tools_that_actually_fit_how_clients/",
+    "matches": [
+      "workflow",
+      "automation",
+      "app",
+      "tool"
+    ],
+    "text": "CPO at a B2B SaaS shop, and we've been building light automations for a few internal ops clients. The real problem we keep hitting isn't technical, it's adoption. Clients use the tool for three days then go back to texts and sticky notes.\n\n  \nZapier is dead simple to hand off but it breaks the second anything non-standard happens, and \"non-standard\" is basically every real client workflow. n8n gives you way more control and the self-hosted option is nice, but asking a small business owner to car"
+  },
+  {
+    "subreddit": "automation",
+    "title": "I built a tool to fully automate my x account, grow audience, find leads",
+    "author": "alexkendig",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t5o6fh/i_built_a_tool_to_fully_automate_my_x_account/",
+    "matches": [
+      "ai",
+      "workflow",
+      "automation",
+      "context",
+      "tool"
+    ],
+    "text": "Hey everyone, \n\n  \nTweetback is an AI Twitter/X assistant for writing better replies, creating posts faster, monitoring conversations, and staying active on X without sounding generic.  \n  \nWhether you are building an audience, networking with prospects, tracking industry conversations, or replying to your community.  \n  \n\u26a1 Key Features  \n  \n\ud83d\udd39 AI reply generator for X/Twitter  \n  \nGenerate contextual reply drafts directly under posts on X. Choose a tone, style, or prompt and create replies that "
+  },
+  {
+    "subreddit": "automation",
+    "title": "Built a full agentic CRM for my AI agency using Claude Code + Claude Design",
+    "author": "Fearless-Ad-238",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t5ma2o/built_a_full_agentic_crm_for_my_ai_agency_using/",
+    "matches": [
+      "ai",
+      "workflow",
+      "automation",
+      "tool"
+    ],
+    "text": "Been building AI automation systems for clients for a while and realized my own ops were a mess.\n\nThe whole thing runs on my server. Built entirely through Claude Code conversations, no manual coding.\n\nWhat I found interesting building this vs using off-the-shelf tools: Claude Code is genuinely better at understanding *your specific workflow* than any generic CRM. It builds exactly what you need, nothing you don't.\n\nlmk your opinion guys"
+  },
+  {
+    "subreddit": "automation",
+    "title": "Most dev docs are either hell to read or hell to write. Here's what I think needs to change",
+    "author": "islempenywis",
+    "ups": 2,
+    "url": "https://reddit.com/r/automation/comments/1t5lk2n/most_dev_docs_are_either_hell_to_read_or_hell_to/",
+    "matches": [
+      "ai",
+      "workflow",
+      "app",
+      "tool"
+    ],
+    "text": "I've been a developer for years and consumed a lot of documentation. MDN, Stripe, Vercel, Notion, and then a hundred smaller libraries where the docs are basically a README someone threw online and called it a day.\n\nI also run a dev-focused YouTube channel (CoderOne), been doing it for over 8 years and grew it to 115k subscribers covering tools, workflows, and developer experience. Docs come up constantly. It's one of the most complained-about topics in the community and honestly the complaints "
+  },
+  {
+    "subreddit": "automation",
+    "title": "5 things I learned building a CV tailor workflow in n8n",
+    "author": "easybits_ai",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t5i0c0/5_things_i_learned_building_a_cv_tailor_workflow/",
+    "matches": [
+      "ai",
+      "workflow"
+    ],
+    "text": ""
+  },
+  {
+    "subreddit": "automation",
+    "title": "New to LLM\u2019s and Ai workflows and Ai automation. (Never coded) Gime roadmap so i can learn and implement quickly",
+    "author": "Disastrous-Tea-7793",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t5fuw7/new_to_llms_and_ai_workflows_and_ai_automation/",
+    "matches": [
+      "ai",
+      "workflow",
+      "automation"
+    ],
+    "text": "New to LLM\u2019s and Ai workflows and Ai automation. Gime the roadmap for learning path so i can learn and implement quickly for my agency business and start offering to other businesses as a service. Moreover what are you shipping/ building, guys? Any ideas where can I start"
+  },
+  {
+    "subreddit": "automation",
+    "title": "What AI automation would you build first for a 2-person startup?",
+    "author": "Alpertayfur",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t5ettp/what_ai_automation_would_you_build_first_for_a/",
+    "matches": [
+      "ai",
+      "workflow",
+      "automation",
+      "app"
+    ],
+    "text": "Imagine a startup with only 2 people.\n\nNo ops team.  \nNo sales team.  \nNo support team.  \nNo automation specialist.\n\nJust founders trying to build, sell, support users, and stay alive.\n\nIf you could only build one AI automation for them, what would it be?\n\nMy first pick would probably be a lead/support triage workflow:\n\nincoming message \u2192 AI summarizes intent  \nAI detects urgency  \nAI suggests next action  \nfounder approves or edits  \nCRM/Sheet/Slack gets updated\n\nIt\u2019s small, but it touches sale"
+  },
+  {
+    "subreddit": "automation",
+    "title": "n8n vs Zapier vs custom build \u2014 the decision matrix I actually use",
+    "author": "Alert_Journalist_525",
+    "ups": 7,
+    "url": "https://reddit.com/r/automation/comments/1t590qi/n8n_vs_zapier_vs_custom_build_the_decision_matrix/",
+    "matches": [
+      "workflow",
+      "tool"
+    ],
+    "text": "I got tired of answering this question tool-by-tool, so I built a framework that's held up pretty consistently across different team sizes and use cases.   \n  \nHere's how I think through it:\n\nUse Zapier if:   \nYour team is non-technical and needs to own the workflow independently. The trigger/action is simple and unlikely to change.   \n  \nYou need it running this week. The moment a workflow needs conditional logic more than 2 levels deep, Zapier starts fighting you.\n\nUse n8n if:   \nYou have at l"
+  },
+  {
+    "subreddit": "automation",
+    "title": "What automations help with short term rental property management?",
+    "author": "SeniorFish1754",
+    "ups": 9,
+    "url": "https://reddit.com/r/automation/comments/1t54c46/what_automations_help_with_short_term_rental/",
+    "matches": [
+      "ai",
+      "automation"
+    ],
+    "text": "Curious what's working for people automating str operations. I've got a portfolio that's grown past the point where I can manually handle everything, currently doing guest messages, cleaning coordination, review responses, and pricing updates across multiple channels. Have basic stuff in place but everything feels stitched together with rubber bands.\n\nSpecifically interested in automations that have actually paid off vs the ones that sounded good but ended up creating more work than they saved. "
+  },
+  {
+    "subreddit": "automation",
+    "title": "I built an app that automatically extracts data from any notification (WhatsApp, Telegram, Email) directly into Excel.",
+    "author": "mohammedalrehaili22",
+    "ups": 4,
+    "url": "https://reddit.com/r/automation/comments/1t530t6/i_built_an_app_that_automatically_extracts_data/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "hey guys i built an android app named WExcel  that totally automates moving data from any notification to excel.\n\nit basically takes any messy incoming message and organizes the data into excel columns automatically and it runs offline on your phone.\n\ni just pushed a huge update adding a full regex engine for power users\nnow you dont even need to set keywords you can just write a regex pattern and the app will hunt down things like phone numbers emails or ibans from anywhere in a random block of"
+  },
+  {
+    "subreddit": "automation",
+    "title": "Your new tool for live arbitrage and value betting, try OddsFinder.app (FREE access) \ud83d\ude80",
+    "author": "Kgwmine",
+    "ups": 2,
+    "url": "https://reddit.com/r/automation/comments/1t52r3z/your_new_tool_for_live_arbitrage_and_value/",
+    "matches": [
+      "app",
+      "tool"
+    ],
+    "text": "**Hey everyone \ud83d\udc4b**\n\n**A guy just launched OddsFinder \u2014 a platform built for arbitrage and value bettors. It\u2019s still early, but already very promising.**\n\nRight now, they\u2019re offering:\n\n* **Free access until May 18, 2026**\n* **No payment needed**\n* **Full features unlocked**\n\nYou can already:\n\n* **Find live arbitrage, middles, low holds, +EV**\n* **Compare odds + use live analytics**\n* **Track your bankroll and bets**\n* **Use a calculator to simulate different scenarios**\n\n**The platform is still e"
+  },
+  {
+    "subreddit": "automation",
+    "title": "Moving beyond brittle scripts for robotic process automation tools",
+    "author": "Lopsided_Comfort_298",
+    "ups": 8,
+    "url": "https://reddit.com/r/automation/comments/1t52h03/moving_beyond_brittle_scripts_for_robotic_process/",
+    "matches": [
+      "ai",
+      "automation",
+      "app",
+      "tool"
+    ],
+    "text": "I\u2019ve been building custom python scripts to handle data scraping from a legacy vendor portal that doesn't have an API. It works for a week, and then the vendor changes a single CSS class and my whole pipeline crashes. \n\nI\u2019m looking for robotic process automation tools that are more resilient. I need something that doesn\u2019t require me to play with UI updates every sunday night. Is there a platform that offers a managed approach to RPA where the maintenance isn't entirely on my shoulders?"
+  },
+  {
+    "subreddit": "automation",
+    "title": "Why no one is talking about Google Colab which is almost free for basic work in daily life?",
+    "author": "mhamza_hashim",
+    "ups": 151,
+    "url": "https://reddit.com/r/automation/comments/1t4wpys/why_no_one_is_talking_about_google_colab_which_is/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I have been a big fan of Google Colab for about three years, and it is honestly amazing what it can do.\n\nFor example, a client on **Fiverr approached me with 3500 images** and asked me to remove the backgrounds from all of them. He wanted to know how much I would charge, and I quoted $200.\n\nHe placed the order immediately without asking any further questions. I informed him that the work would be completed within 24 hours and that the image quality would not be compromised, and he agreed.\n\nWhen "
+  },
+  {
+    "subreddit": "automation",
+    "title": "Dispute resolution automation missing context that matters",
+    "author": "Mundane-Anybody-9726",
+    "ups": 5,
+    "url": "https://reddit.com/r/automation/comments/1t4oyup/dispute_resolution_automation_missing_context/",
+    "matches": [
+      "ai",
+      "automation",
+      "context",
+      "tool"
+    ],
+    "text": "Automated system pulled all the standard evidence for a dispute. Tracking number, delivery confirmation, order details. But it completely missed the email thread where the customer specifically confirmed they received everything and loved it. That email would have won the case easily but the automation didn't recognise it as relevant evidence. Lost a dispute I would have won manually. Do these tools actually understand context ??"
+  },
+  {
+    "subreddit": "automation",
+    "title": "Thoth v3.20.0 - Full Linux Support, MiniMax Integration, and Major Reliability Upgrades for Ollama &amp; Local Runtimes",
+    "author": "Acceptable-Object390",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t4n89i/thoth_v3200_full_linux_support_minimax/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "local"
+    ],
+    "text": "We just shipped Thoth v3.20.0, and this one is a big step forward for anyone running local models, self\u2011hosted endpoints, or multi\u2011provider setups. This release focuses on Linux, MiniMax, and runtime reliability across Ollama, LM Studio, and custom OpenAI\u2011compatible backends.\n\nBelow is a deeper technical breakdown for those who want to know exactly what changed.\n\n\ud83d\udc27 Full Linux Support (Finally Done Properly) Thoth now ships a self\u2011contained Linux tarball (Thoth-X.Y.Z-Linux-x86\\\\\\_64.tar.gz) built"
+  },
+  {
+    "subreddit": "automation",
+    "title": "What\u2019s one automation you wish you had built sooner?",
+    "author": "junkietrumpglo",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t4m4vp/whats_one_automation_you_wish_you_had_built_sooner/",
+    "matches": [
+      "workflow",
+      "automation"
+    ],
+    "text": "What\u2019s one automation you wish you had built sooner?\n\nNot the flashy stuff just the simple thing that would have saved you time, frustration, or mental energy way earlier.\n\nFor me, it\u2019s usually the little workflows that remove friction from everyday work.\n\nCurious what automation turned out to be way more valuable than you expected."
+  },
+  {
+    "subreddit": "automation",
+    "title": "I wanted a simple and affordable way to connect with leads.. so I built a tool for that and made over $12k in ~8 months",
+    "author": "GuidanceSelect7706",
+    "ups": 0,
+    "url": "https://reddit.com/r/automation/comments/1t4m219/i_wanted_a_simple_and_affordable_way_to_connect/",
+    "matches": [
+      "ai",
+      "context",
+      "tool"
+    ],
+    "text": "I built a lead gen tool because I was tired of looking for customers manually\n\nbefore this I was literally scrolling reddit and twitter trying to find people who maybe need my tool\n\nit worked sometimes but man its so boring\n\nyou miss 90% of posts  \nyou find them too late  \nand most of the time its just random noise\n\nso I started building leadverse\n\nit monitors places like reddit, x, linkedin etc and finds posts where people are already looking for something you offer\n\nlike someone asking for a t"
+  },
+  {
+    "subreddit": "automation",
+    "title": "legacy payment apis for automated micro-transactions are making me lose my mind",
+    "author": "frankgetsu",
+    "ups": 1,
+    "url": "https://reddit.com/r/automation/comments/1t4lx7n/legacy_payment_apis_for_automated/",
+    "matches": [
+      "automation",
+      "app"
+    ],
+    "text": "honestly just need to rant because i've wasted my entire weekend on this. I built a simple python automation that distributes background scraping tasks and wanted to set up an automated payout flow for a few friends who are letting me run instances on their idle hardware. Literally talking about sending like 2 or 3 bucks a week automatically  \n  \nTrying to do this through stripe or paypal's api is actual torture. The fixed transaction fees instantly eat up like 30% of the micro-payment, and the "
+  },
+  {
+    "subreddit": "workflow",
+    "title": "The Best Way to Find Shortcuts",
+    "author": "Chrunos",
+    "ups": 37,
+    "url": "https://reddit.com/r/workflow/comments/alni9z/the_best_way_to_find_shortcuts/",
+    "matches": [
+      "workflow",
+      "shortcut"
+    ],
+    "text": "As you know, there are a few Siri Shortcuts Sharing websites. \n\n1. shortcuts/workflow subreddit\n2. routinehub\n3. shortcutsgallery\n4. shareshortcuts\n5. sharecuts\n\nWould it be nice to perform one search to find all shortcuts results from all these websites? \n\nJust check this: [https://chrunos.com/shortcuts-search/](https://chrunos.com/shortcuts-search/)\n\nIf you know more shortcuts sharing sites besides these five, let me know and I will add them.\n\nI have also made a shortcut to search for shortcut"
+  },
+  {
+    "subreddit": "workflow",
+    "title": "Workflow request: Trello with Things 3 for Real Estate Investment",
+    "author": "TyroneYoloSwagging",
+    "ups": 7,
+    "url": "https://reddit.com/r/workflow/comments/adren3/workflow_request_trello_with_things_3_for_real/",
+    "matches": [
+      "productivity",
+      "workflow",
+      "app"
+    ],
+    "text": "Can anyone recommend a workflow for 2 of my favorite productivity apps - Trello and Things 3?\n\nTrello is good for collaboration, while Things 3 is great for managing tasks...trying to see how i can use them better together."
+  },
+  {
+    "subreddit": "workflow",
+    "title": "ELO Rating System",
+    "author": "wespharl",
+    "ups": 6,
+    "url": "https://reddit.com/r/workflow/comments/aajs92/elo_rating_system/",
+    "matches": [
+      "ai",
+      "workflow",
+      "app"
+    ],
+    "text": "Trying to create a workflow that is basically an ELO rating system. Essentially I would input choices. Once all choices have been input. The workflow sends them to the user as a \u201cchoose from list\u201d input, pitting two items against each other, and the user picks the one that is better for whatever stat is being rated. It repeats this until it has enough info to compile a rating list. Currently looking at 19-20 items. I\u2019m getting stumped on giving the list items a value from let\u2019s say 1-10 that wou"
+  },
+  {
+    "subreddit": "workflow",
+    "title": "My Ultimate YouTube Downloader [Support MP3, Music Video, 1080P]",
+    "author": "Chrunos",
+    "ups": 23,
+    "url": "https://reddit.com/r/workflow/comments/a3acmu/my_ultimate_youtube_downloader_support_mp3_music/",
+    "matches": [
+      "ai",
+      "shortcut"
+    ],
+    "text": "I did not make this from zero. The search part I imported from Deezer Downloader by [/74Y3M](https://www.reddit.com/user/74Y3M).\n\nThis shortcut also allows you to save audio only from YouTube by converting YouTube to MP3. YouTube 1080P video, sometimes 720P does not have sound. I have added the option there, you can choose to download YouTube 1080p video.\n\nIf no YouTube URL input, this shortcut will ask you to type a keyword to search from YouTube, then it will bring you 5 top search results.\n\nP"
+  },
+  {
+    "subreddit": "workflow",
+    "title": "Workflow/shortcut to open wifi calling setting?",
+    "author": "BasedGod96",
+    "ups": 2,
+    "url": "https://reddit.com/r/workflow/comments/a272qy/workflowshortcut_to_open_wifi_calling_setting/",
+    "matches": [
+      "workflow",
+      "shortcut"
+    ],
+    "text": "I want to toggle it on and off quickly "
+  },
+  {
+    "subreddit": "workflow",
+    "title": "Revert back to Workflow from Shortcuts?? Possible???",
+    "author": "g33kym0m",
+    "ups": 0,
+    "url": "https://reddit.com/r/workflow/comments/a0bp80/revert_back_to_workflow_from_shortcuts_possible/",
+    "matches": [
+      "workflow",
+      "shortcut"
+    ],
+    "text": "I was a huge, major Workflow fan. I used dozens of Workflows a day, managed most of our household scheduling, lists, etc, via WF. And probably have recommended it or spent time teaching 20-30 people about how to use it.\n\nSince I updated to the \u201cShortcuts\u201d version, so many (too many to list) of my WFs/Shortcuts get random errors, have completely stopped working, and basically have become one major mess of inconsistency. The UI is much less convenient to use (Example, needing to use a search to ac"
+  },
+  {
+    "subreddit": "workflow",
+    "title": "Apple Calendar remove locations workflow possible?",
+    "author": "CuriousPsychosis",
+    "ups": 5,
+    "url": "https://reddit.com/r/workflow/comments/a0b3o6/apple_calendar_remove_locations_workflow_possible/",
+    "matches": [
+      "workflow",
+      "app",
+      "shortcut"
+    ],
+    "text": "First time on reddit. First post, joined to get help on this topic. Please excuse any transgressions:\n\nI need to remove event locations from one hundred events. I searched automator actions which led me to @rosemaryorchard. She says she hangs out here\u2026 I can't find a solution to edit/remove the values in the Location field in Apple Calendar Events and loop. Any help?\n\nAlso curious to know how to get workflows I am seeing online into Automator instead of having them open in iOS shortcuts?\n\nThanks"
+  },
+  {
+    "subreddit": "workflow",
+    "title": "Update a previously created playlist.",
+    "author": "NeedsMoreCake",
+    "ups": 1,
+    "url": "https://reddit.com/r/workflow/comments/9znkc1/update_a_previously_created_playlist/",
+    "matches": [
+      "ai",
+      "workflow",
+      "app",
+      "shortcut"
+    ],
+    "text": "Hello. I am trying to update a previously created playlist using the shortcuts app. I want to avoid having to create the same playlist again and again but instead update an existing one replacing all the 25 songs on it with 25 new ones.\n\nI want to achieve this so that I can automatically sync the same playlist to my apple watch without having to manually add the playlist to the watch every time I update it.\n\nI tweaked another workflow so it picks 25 random songs played anytime before the last th"
+  },
+  {
+    "subreddit": "workflow",
+    "title": "Get images from input inconsistent",
+    "author": "Robnor122",
+    "ups": 0,
+    "url": "https://reddit.com/r/workflow/comments/9w4zxy/get_images_from_input_inconsistent/",
+    "matches": [
+      "ai",
+      "shortcut"
+    ],
+    "text": "I\u2019ve posted this in Shortcuts as well\n\nI have a Shortcut which extracts images from a website, sometimes the Get images from input action gets \u2018stuck\u2019 for no obvious reason. I ran it this morning and it stuck after extracting 10 images, I ran it again 10 mins later and it worked perfectly extracting all 37 images as required\n\nIt was working fine in earlier versions of Shortcuts"
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "I thought iPhone printing would be simple. Then I fell into IPP, IPPS, Bonjour, PWG Raster, URF, PCL, and printer firmware bugs.",
+    "author": "SophisticatedLogic",
+    "ups": 0,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5v4de/i_thought_iphone_printing_would_be_simple_then_i/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I\u2019m building **PrintWave**, an iOS app for printing directly from iPhone to Wi-Fi printers, and the project turned into a much deeper protocol rabbit hole than I expected.\n\nThe basic idea seemed simple:\n\n&gt;discover printer \u2192 send document over IPP \u2192 done\n\nReality has been more like:\n\n* Bonjour/mDNS discovery works until the network blocks multicast\n* some printers advertise `_ipp._tcp`, some `_ipps._tcp`, some only `_printer._tcp` or `_pdl-datastream._tcp`\n* IPP paths vary: `/ipp/print`, `/ipp"
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "Self hosted webmail client",
+    "author": "SirLlama123",
+    "ups": 0,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5r52h/self_hosted_webmail_client/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Hi all! I was looking for some sugestions for a mail client that I can host that will allow me to connect other mail services (gmail and outlook) through imap or other protocols. I was lookign at cypht and sogo and snappymail but they all look super outdated and clunky and I am lookign for something that would look nice and work well. "
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "Wednesday Dashboard Post",
+    "author": "cloudcity",
+    "ups": 6,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5qa5p/wednesday_dashboard_post/",
+    "matches": [
+      "ai",
+      "app",
+      "local"
+    ],
+    "text": "I really had a lot of fun building this server dashboard system. I use it to monitor 4 local servers, and 2 servers in the cloud.\n\nI use it to check basic server stats, it also shows app packages that can be updated, and Docker containers that can be updated.\n\nThe Docker part was a challenge due to rate limiting. I do two checks a day, 6am and 4pm, but can also manually trigger.\n\nThe second image is backups dashboard, powered by Restic. Cron runs staggered backups across the two servers, which r"
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "pia-tun - Lightweight PIA + WireGuard container with port forwarding, qBittorrent port sync, and zero leak killswitch",
+    "author": "x0lie",
+    "ups": 45,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5pc19/piatun_lightweight_pia_wireguard_container_with/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": "I found that most existing PIA + WG container solutions were clunky or fragile, and I wanted to create my own image for the experience, so I began working on pia-tun about 6 months ago.\n\nThe main issue is that PIA uses dynamic registration, meaning a few connections need to be made before the tunnel exists (auth, serverlist, key exchange).\n\nThe only clean and secure solution for this is to make precise temporary firewall exemptions. Gluetun's creator has decided against making these connections "
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "Tips for setting up fallback server",
+    "author": "FedorChib",
+    "ups": 0,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5owar/tips_for_setting_up_fallback_server/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": "My ISP is pretty unstable lately, so I've decided to establish kind of reserve entry point at my friend's server - during outages I redirect domains to it and then requests will be routed by its NGINX through wireguard/yggdrasil tunnel to my server (it has LTE modem for such cases, but without public IP).\n\nMain concern for me are SSL certificates. DNS-1 challenging is tricky on my DNS provider and with HTTP-1 it's impossible to update certs on fallback machine when domain points my main server ("
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "Best local LLM for RX 570 (8GB) on Proxmox? (Sequential use with Jellyfin)",
+    "author": "0mni_",
+    "ups": 0,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5mtmc/best_local_llm_for_rx_570_8gb_on_proxmox/",
+    "matches": [
+      "ai",
+      "workflow",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "Hey everyone,\n\nI\u2019m looking for the most capable LLM I can host on my Proxmox node. I have a specific hardware setup and a \"sequential\" workflow.\n\n**The Specs:**\n\n* **GPU:** AMD Radeon RX 570 (8GB VRAM) \u2013 *Polaris*\n* **CPU:** AMD Ryzen 5 2600 (6C/12T)\n* **RAM:** 16GB DDR4\n* **OS:** Proxmox VE 9 (Kernel 6.17 / Debian 13 Trixie)\n* **Storage:** 7.5 TiB available\n\n**The Setup:** I\u2019m running **Vaultwarden** and **AdGuard Home** in the background (minimal resources). The node also hosts **Jellyfin** (t"
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "MIT-licensed Sentry + Datadog replacement, self-hosts in ~90 seconds",
+    "author": "narrow-adventure",
+    "ups": 58,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5mr70/mitlicensed_sentry_datadog_replacement_selfhosts/",
+    "matches": [
+      "ai",
+      "workflow",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "Hi,\n\nI've been working on an open-source observability stack that is really easy to self host. About 6 months ago I got super frustrated by paying for Sentry and hosting a bunch of services (otel collector, prometheus, grafana...) and still not having everything I was looking for.\n\nSo I've built a platform that has: custom dashboards, session replay, logs, traces, metrics, and grouped exceptions, all connected. You can click anywhere in the system, walk to anywhere else. The SDKs for web and flu"
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "I made a drop-in replacement for default Nginx/Traefik/Caddy error pages - 11 themes, pure Go, zero deps, works with Kubernetes too",
+    "author": "purumtumtum",
+    "ups": 0,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5ka6y/i_made_a_dropin_replacement_for_default/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "local"
+    ],
+    "text": "Every time I set up a new reverse proxy, the default 4xx/5xx error pages were ugly as sin. A plain white \"404 Not Found\" page in 2026 just feels wrong. So I built `error-pages` - a small service and static page generator to fix exactly that.\n\nGitHub: [https://github.com/tarampampam/error-pages](https://github.com/tarampampam/error-pages)\n\n**What it does**:\n\n- Serves beautiful, themed HTML error pages (404, 500, 503, etc.) instead of your server's defaults\n- 11 built-in themes - ranging from clas"
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "Dashboard...done?",
+    "author": "darleystreet",
+    "ups": 2,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5irwa/dashboarddone/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "https://preview.redd.it/v29uwa86tjzg1.png?width=2902&amp;format=png&amp;auto=webp&amp;s=c80fface720c84689919d27b5ac0362bfb098720\n\nI am in the sad situation of having over-engineered my personal dashboard to the point where I am running out of things to do.  I could resort to a UI overhaul but I do like this (I am not a dark mode person).  The current features are listed below in case anyone else is looking for ideas and I would truly appreciate any ideas others have to offer.\n\nCore\n\n* Service ti"
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "Cloud sync on local nas",
+    "author": "Ducking_eh",
+    "ups": 0,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5h2zo/cloud_sync_on_local_nas/",
+    "matches": [
+      "ai",
+      "local"
+    ],
+    "text": "Hey everyone,\n\nI have been running Nextcloud on my book for a while, and haven't had any issues. I also use cryptomator to make sure that my files are more secure.\n\nMy VPS is managed by another company. I also have a headless Raspi running my Nas Drive at home.\n\nI am using mountain duck, but I am finding using it with Cryptomator causes a lot of sync errors.\n\nRecently, my laptop is getting low on memory. So I want to sync the cloud to my Nas Drive. Does anyone know of a software that will let me"
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "Any self-hosted distributed encrypted TOTP applications?",
+    "author": "thresholdtechnology",
+    "ups": 7,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5f2a6/any_selfhosted_distributed_encrypted_totp/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "My homelab has grown stable enough such that I can start worrying about the micro rather than the macro.\n\nI've seen that OpenAuthenticator exists. Before I start trying to do anything by myself, is there anything that already exists which allows a user in a blockchain-esque way to have self syncing nodes that store encrypted TOTP codes?\n\n  \nMy use case is as such:\n\n  \nI have trusted and untrusted devices - Mac devices, Windows PCs, and VPS across different countries. Currently, my single points "
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "Anyone here using containers to simplify deployments across multiple self-hosted projects?",
+    "author": "SaintValkyrie",
+    "ups": 0,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5dr92/anyone_here_using_containers_to_simplify/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "I\u2019ve been self-hosting a few projects on a VPS for a while now, mostly using Docker / docker-compose setups.\n\n\n\nFor a single project, things are pretty straightforward:\n\n\n\n\\* define services\n\n\\* manage env files\n\n\\* redeploy when needed\n\n\n\nBut as I started running multiple small apps, I noticed a few pain points:\n\n\n\n\\* repeating similar setups across projects\n\n\\* keeping environments consistent\n\n\\* managing deployments manually (even with scripts/webhooks)\n\n\n\nI\u2019m trying to keep things simple and"
+  },
+  {
+    "subreddit": "selfhosted",
+    "title": "My new open-source project: Git for AI Agents",
+    "author": "Immediate-Landscape1",
+    "ups": 0,
+    "url": "https://reddit.com/r/selfhosted/comments/1t5bpc0/my_new_opensource_project_git_for_ai_agents/",
+    "matches": [
+      "ai",
+      "context"
+    ],
+    "text": "hi everyone.\n\ni'm new in the field of releasing fully open source projects to the world,\n\nso shooting my shot.\n\ni've been working on something very cool in the past few weeks,\n\nsomething I had in mind for long time, but just couldn't get to solve it,\n\nand after some long nights researching &amp; reading about the most deep shallow parts of git, I think i managed to solve it!\n\nthe core issue - git is NOT built for ai-driven development.\n\n\\- undoing work is almost impossible (/rewind is working li"
+  },
+  {
+    "subreddit": "ObsidianMD",
+    "title": "Can any actual DEVELOPER share their obsidian setup ?  no regular users please? I want to know how coders/developers use obsidian not for regular notes maangement.",
+    "author": "Particular_Leg_5956",
+    "ups": 0,
+    "url": "https://reddit.com/r/ObsidianMD/comments/1t5u8rf/can_any_actual_developer_share_their_obsidian/",
+    "matches": [
+      "ai",
+      "workflow",
+      "context",
+      "app"
+    ],
+    "text": "I am seeing so many posts of people using valut and termnianl from valut. But CAN ANY DEVELOPER share their setup ? All of the people who are sharing are crating daily notes meetings etc. I want to manage projects and their archtiures and use it as context for claude. \n\n\n\nI'm trying to set up a workflow where I use\u00a0**Claude Code**\u00a0(Anthropic's CLI coding agent) to keep my Obsidian vault and my code repositories in sync \u2014 e.g., auto-updating architecture notes, API references, and changelogs in t"
+  },
+  {
+    "subreddit": "ObsidianMD",
+    "title": "I have a question for obsidian veterans.",
+    "author": "DreamyAthena",
+    "ups": 0,
+    "url": "https://reddit.com/r/ObsidianMD/comments/1t5rs8b/i_have_a_question_for_obsidian_veterans/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I have been using Obsidian for personal knowledge management and preparation for the final exams in Highschool. (for Americans this is about the level 2nd year of college in the US I think) It has been working quite fine for me and I want to use it going into College, but I'm note sure if the structure will hold up in the future. I am doing a course in IoT which includes some IT topics and some electrotechnics relates ones.\n\nI create notes for the general knowledge areas and then link the specif"
+  },
+  {
+    "subreddit": "ObsidianMD",
+    "title": "Keep the last window size",
+    "author": "Alpha_Slasher",
+    "ups": 0,
+    "url": "https://reddit.com/r/ObsidianMD/comments/1t5qzns/keep_the_last_window_size/",
+    "matches": [
+      "app",
+      "shortcut"
+    ],
+    "text": "i wanna ask, why my obsidian note window's size keep being in a big window size every time it start when my windows starting up..?\n\nit's like it's run on normal window size\n\nanybody knows how to make it run at the same size (and position) as its last time size (and position) when windows is being shut down ?\n\nnote:\n\ni make it auto-run at start up by using:\n\n* run --&gt; shell:autorun\n* paste the app's shortcut in the folder"
+  },
+  {
+    "subreddit": "ObsidianMD",
+    "title": "I built an open-source iOS location tracker that exports to your Obsidian vault and renders the maps in your vault.",
+    "author": "Bonteq",
+    "ups": 2,
+    "url": "https://reddit.com/r/ObsidianMD/comments/1t5qi7c/i_built_an_opensource_ios_location_tracker_that/",
+    "matches": [
+      "ai",
+      "app",
+      "local"
+    ],
+    "text": "Hey all. I wanted my location history to live in my vault next to everything else I write down, not in a cloud service I have to trust.\n\nSo I built two things that talk to each other:\n\nBoth projects are AGPL-3.0, both open source:\n\n* App:\u00a0[https://github.com/CodyBontecou/isome](https://github.com/CodyBontecou/isome)\n* Plugin:\u00a0[https://github.com/CodyBontecou/obsidian-iso-me-maps](https://github.com/CodyBontecou/obsidian-iso-me-maps)\n\n[iso.me](https://isome.isolated.tech/)\u00a0\\- an iOS app that reco"
+  },
+  {
+    "subreddit": "ObsidianMD",
+    "title": "My Life and Brain finally work the way I want. Still a ton to do.",
+    "author": "Pinkahpandah",
+    "ups": 80,
+    "url": "https://reddit.com/r/ObsidianMD/comments/1t5kiwk/my_life_and_brain_finally_work_the_way_i_want/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "Began my Migration over Christmas. Hit 1.700 Notes as of today. Still a lot to got, but it helps me a ton to get to stuff notion kept hidden under menus for me. Love this tool. Obsidian feels so much more intuitive after half a year for me than notion ever did after 5 years.\n\nThanks to everyone here I learnd a ton about setting up Obsidian! Dankesch\u00f6n! :)"
+  },
+  {
+    "subreddit": "ObsidianMD",
+    "title": "I am new to obsidian, and it is haaaaard",
+    "author": "MinScotland",
+    "ups": 0,
+    "url": "https://reddit.com/r/ObsidianMD/comments/1t5ii5s/i_am_new_to_obsidian_and_it_is_haaaaard/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Hi everyone ! So i am new to obsidian. I picked it up first a year ago, then stopped because it was too hard for me. I am back at it again, still hard but i am determine to make it work. \n\nI would like to use two vaults, one for writing my books, and the other one for like life stuffs, uni, hobbies bla bla bla. \n\nI understand more or less how it works but god do i struggle with the aesthetic. I know that sound superficial but i need to see something pretty to use it. I would like my book vault t"
+  },
+  {
+    "subreddit": "ObsidianMD",
+    "title": "VaultMate update: Real-time file monitoring for your Obsidian tasks!",
+    "author": "Vankir",
+    "ups": 0,
+    "url": "https://reddit.com/r/ObsidianMD/comments/1t5idx5/vaultmate_update_realtime_file_monitoring_for/",
+    "matches": [
+      "ai",
+      "app",
+      "local",
+      "privacy"
+    ],
+    "text": "Hi everyone!\n\nI\u2019m the developer of\u00a0[**VaultMate**](https://vaultmate.app/), the open-source task manager for Obsidian. I\u2019ve been working on a highly requested feature, and it\u2019s finally here:\u00a0**Real-time File Monitoring.**\n\n**What\u2019s new?**  \nVaultMate now monitors your Obsidian vault for file changes in the background. If you edit a Markdown file (either in Obsidian or any other editor), VaultMate instantly detects the change. If you have tasks with scheduled times, it will automatically trigger "
+  },
+  {
+    "subreddit": "ObsidianMD",
+    "title": "Obsidian n\u00e3o cola texto copiado fora do app",
+    "author": "Oasouz",
+    "ups": 0,
+    "url": "https://reddit.com/r/ObsidianMD/comments/1t5i9l3/obsidian_n\u00e3o_cola_texto_copiado_fora_do_app/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Uso o Obsidian em um Tab S7FE. Recentemente o app parou de aceitar colar texto copiado fora dele (no chrome por exemplo), quando dou ctrl+v ou paste com click direito do mouse, \u00e9 colado o \u00faltimo texto copiado dentro do Obsidian e n\u00e3o o que copie no app exeterno. So consigo colar o que foi copiado fora indo no chipboard (\u00e1rea de transfer\u00eancia), mas ai perde a formata\u00e7\u00e3o ao colar, principalmente se for markdown copiado pelo GPT. Consigo resolver momentanemante reinstalando e subindo vault novament"
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "I got tired of waiting for Tahoe to handle \"active context\" correctly. Built a native intelligence layer for the Fn key",
+    "author": "Infinite-Tadpole4794",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1t41qy5/i_got_tired_of_waiting_for_tahoe_to_handle_active/",
+    "matches": [
+      "mac",
+      "ai",
+      "workflow",
+      "context",
+      "app",
+      "local"
+    ],
+    "text": "been running the macOS 26 betas since day one. the apple intelligence stuff is cool, but the interaction model still feels clunky. if i'm in a deep workflow, i don't want to open a sidebar or a separate chat just to act on what i'm looking at.\n\ni built a native swift utility (local-first, no performance hit,called invoko) that repurposes the Fn key for \"screen-aware dispatch.\" you press it, say the command, and it reads your active window to execute across your other apps. 'pull the jira ticket "
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "Apple Intelligence Summary available on Intel Mac? (26.5 DB)",
+    "author": "dandee_08",
+    "ups": 5,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1t2l3s7/apple_intelligence_summary_available_on_intel_mac/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": ""
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "Visual bugs persisting thru macOS 26.5",
+    "author": "Civil-Appearance5608",
+    "ups": 15,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1t15set/visual_bugs_persisting_thru_macos_265/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool",
+      "shortcut"
+    ],
+    "text": "I\u2019ve kept track of the following visual bugs/inconsistencies (all submitted in the Feedback app) that have persisted since macOS 26.0. Have others reported any of these?\n\n**Various apps missing icons for some list items in the menu bar**  \n\\- Podcasts (Settings and Notifications)  \n\\- Phone (Settings)  \n\\- Weather (Settings)  \n\\- Mail (Accounts)  \n\\- Contacts (Accounts)  \n\\- FaceTime (Settings)\n\n**Various apps do not maintain window size and scale when closed and reopened**  \n\\- Phone, Shortcuts"
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "Has this happened with anyone?",
+    "author": "halftimee",
+    "ups": 1,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1t0u6tb/has_this_happened_with_anyone/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "So i was dragging files and closed second finder window and it got stucked and whole window suddenly went blank , i wasnt even able to exit it, so i have to force reopen it. Was this a normal glitch or a Bug that should be reported? if it is a bug, then one should do it cuz I'm not using beta anymore.\n\nMacOs Version: Tahoe 26.4.1 (newly updated)\nM1 MBA"
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "I finally made my MacBook notch actually useful",
+    "author": "Ok-Term-1270",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1t0829g/i_finally_made_my_macbook_notch_actually_useful/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "Been using a MacBook Pro for years and the notch has always just been dead space \u2014 Apple put it there for the camera and that's it.\n\nI got fed up and built Notchbase. Hover over the notch and a panel drops down with:\n\n* \u25b6 Media controls \u2014 skip tracks without switching apps\n* \ud83d\udcc8 Live stock prices \u2014 AAPL, BTC, NVDA, whatever you follow\n* \ud83d\udda5 CPU, RAM &amp; GPU usage at a glance\n* \ud83d\udd0a Per-app volume mixer\n\nMove your cursor away and it vanishes. Doesn't take up any screen space, doesn't interfere with an"
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "When i run iOS Simulator and play any sound on my Mac the whole sound is bugged! Bug exists since last summer.",
+    "author": "AppleiOS1234",
+    "ups": 1,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1sxw2e3/when_i_run_ios_simulator_and_play_any_sound_on_my/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": "Since last summer, there is a bug when i run iOS Simulator and then play any type of sound on my Mac, the sound bugs out like crazy. It just does some \"electric sound glitching\".\n\nDeveloping with xCode is a pain, bc i can't play sound while Simulator is open, without having this glitched sound bugs!"
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "Fourth macOS Tahoe 26.5 Beta Now Available for Developers",
+    "author": "jagajazzist",
+    "ups": 15,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1sxbihg/fourth_macos_tahoe_265_beta_now_available_for/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": ""
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "DeepPeek 2 Feature Complete \u2014 Due to Demand, More Beta Spots Added. Test for a Free License",
+    "author": "open__screen",
+    "ups": 0,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1suih5n/deeppeek_2_feature_complete_due_to_demand_more/",
+    "matches": [
+      "ai",
+      "app",
+      "shortcut"
+    ],
+    "text": "https://preview.redd.it/hjv7qa3bm5xg1.png?width=1392&amp;format=png&amp;auto=webp&amp;s=ced5a6de8b5cd4b765607aadd297cccd899b5abe\n\n**Seek, Peek, and Preview to find your work instantly**\u2014even if it\u2019s buried in folders or you lost track of it over time.\n\nDeepPeek gives you a clear view of where your files are and what they contain\u2014the fastest way to get back to what you need.\n\nDue to the high demand for our 10+ lifetime license giveaway, we\u2019ve expanded beta access. To qualify, use the app for five"
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "Tahoe 26.5 Beta (25F5058e) messed up Safari, App Store and Mail",
+    "author": "Due_Cat_2132",
+    "ups": 6,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1ssnv01/tahoe_265_beta_25f5058e_messed_up_safari_app/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "I can access Apple's own website just fine(!), but not most other sites. (Craigslist loads, barely.) App Store works, kind of, in a halting way, and Mail seems to have problems. This does not have to do with my ISP, since I have tried using the MacBook with a different one and I have the same problem. Brave (a third party browser) also works as expected.\n\nThinking that perhaps if I re-DL older versions of Safari, Mail and the App Store that they'll work, but I don't know how to do so."
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "Tahoe 26.5.1 - fixes mail display, breaks mail IMAP connections with some 3rd party security packages",
+    "author": "FearLessThings",
+    "ups": 4,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1ssm6e6/tahoe_2651_fixes_mail_display_breaks_mail_imap/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": "PSA for Avast and other 3rd Party MacOS Security Users:   \n  \nI was having the Mail display problem reported in T26.5, so when 26.5.1 came out, I updated immediately. At that point, Mac Mail would not connect to my mail servers at all. \n\nMail &gt;Window &gt; Connection Doctor showed me that it was only IMAP connections failing (SMTP worked fine). I started debugging the connection using the openssl command and found that Avast security was doing a man-in-the-middle (MITM) intercept of all outbou"
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "Mac os official apps not abble to access internet on public beta 26.5.2",
+    "author": "VaibhavMD",
+    "ups": 14,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1ssb6r8/mac_os_official_apps_not_abble_to_access_internet/",
+    "matches": [
+      "mac",
+      "app"
+    ],
+    "text": "I just updated to mac os 26.5.2 public beta and not a single mac os app is able to access internet. Other not mac os apps are able to access internet like chrome whatsapp etc but safari not working mac os updater app also not able to access internet. I have connect to internet using wifi. Dont have any other way to connect internet. Anyone else facing this issue. I am not able to use feedback assignment also as its not connecting to internet."
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "Trust Chain (trustd/secd) 26.5 Beta3",
+    "author": "gandalf239",
+    "ups": 1,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1srbjb3/trust_chain_trustdsecd_265_beta3/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "For whoever is interested try running log show --predicate using the following: \n\n'(process CONTAINS \"msal\" OR process == \"identityservicesd\" OR process == \"secd\" OR process == \"trustd\" OR process == \"accountsd\" OR process == \"AppSSOAgent\" OR process == \"runningboardd\")' OR (composedMessage CONTAINS\\[c\\] \"msal\" OR composedMessage CONTAINS\\[c\\] \"oneauth\" OR composedMessage CONTAINS\\[c\\] \"libmsal\" OR composedMessage CONTAINS\\[c\\] \"WPJ\")'\n\nWith a standard complement of apps open and/or executing MD"
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "MacOS 26.5 Beta 3 - Mail is fixed",
+    "author": "Mlrk3y",
+    "ups": 22,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1sqynjm/macos_265_beta_3_mail_is_fixed/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "Happy to report that the (WKWebView) issue that was causing problems in the Mail app have been resolved!"
+  },
+  {
+    "subreddit": "macOSbeta",
+    "title": "Third macOS Tahoe 26.5 Beta Now Available for Developers",
+    "author": "jagajazzist",
+    "ups": 14,
+    "url": "https://reddit.com/r/MacOSBeta/comments/1sqw1jy/third_macos_tahoe_265_beta_now_available_for/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": ""
+  },
+  {
+    "subreddit": "apple",
+    "title": "iPhone 18 Pro CAD Leak Reignites the Dynamic Island Debate",
+    "author": "iMacmatician",
+    "ups": 41,
+    "url": "https://reddit.com/r/apple/comments/1t5a9n6/iphone_18_pro_cad_leak_reignites_the_dynamic/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "&gt;An X user called\u00a0[u/earlyappleleaks](https://x.com/earlyappleleaks/status/2051161824746201375?s=20)\u00a0has posted the above image, claiming that \"the new CAD confirms the smaller Dynamic Island of the iPhone 18 Pro.\"\n\n&gt;CAD renders are often leaked from factories and represent the technical schematics that phone manufacturers share with case makers and accessory companies months before a phone launches. Whether this particular one is kosher is unknown, since the leaker is relatively new to th"
+  },
+  {
+    "subreddit": "apple",
+    "title": "Apple reaches $250M settlement over Siri delays, users could get up to $95 per device",
+    "author": "pdfu",
+    "ups": 3651,
+    "url": "https://reddit.com/r/apple/comments/1t4rzyh/apple_reaches_250m_settlement_over_siri_delays/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "Last March, Apple was [hit with a class action lawsuit](https://9to5mac.com/2025/03/20/apple-intelligence-lawsuit-advertising/)after [delaying](https://9to5mac.com/2025/03/07/apple-intelligence-personal-siri-delayed/) the launch of the \u201cmore personalized Siri\u201d that was first announced at WWDC 2024.\n\nApple agreed to settle the case in December, and the full settlement terms are now available.\n\nApple is set to pay $250 million to settle the lawsuit, equating to an estimated $25 per device. That nu"
+  },
+  {
+    "subreddit": "apple",
+    "title": "Apple's most powerful Mac Studio loses its last remaining RAM upgrade option",
+    "author": "pdfu",
+    "ups": 592,
+    "url": "https://reddit.com/r/apple/comments/1t4o8ib/apples_most_powerful_mac_studio_loses_its_last/",
+    "matches": [
+      "mac",
+      "ai",
+      "app"
+    ],
+    "text": "Apple has removed the option to buy the M3 Ultra Mac Studio with 256GB RAM."
+  },
+  {
+    "subreddit": "apple",
+    "title": "Apple to Let Users Choose Rival AI Models Across Its iOS 27 Features (Gift Article)",
+    "author": "pdfu",
+    "ups": 441,
+    "url": "https://reddit.com/r/apple/comments/1t4maiy/apple_to_let_users_choose_rival_ai_models_across/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "Apple Inc. will let users choose from a range of outside artificial intelligence services to power features across its software, building on a strategy to turn its devices into a comprehensive AI platform.\n\nUsers will be able to select from multiple third-party AI models for tasks like generating and editing text and images, according to people with knowledge of the matter. The change is slated for iOS 27, iPadOS 27 and macOS 27 this fall, said the people, who asked not to be identified because "
+  },
+  {
+    "subreddit": "apple",
+    "title": "Apple Manufacturing Academy Hosts AI Showcase",
+    "author": "Otherwise-Warning303",
+    "ups": 11,
+    "url": "https://reddit.com/r/apple/comments/1t4fhvz/apple_manufacturing_academy_hosts_ai_showcase/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": ""
+  },
+  {
+    "subreddit": "apple",
+    "title": "20th Anniversary iPhone Could Blend Haptic Buttons Into Curved Edges",
+    "author": "iMacmatician",
+    "ups": 418,
+    "url": "https://reddit.com/r/apple/comments/1t4c5fd/20th_anniversary_iphone_could_blend_haptic/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "&gt;For the rumored 20th-anniversary iPhone, Apple continues to test a solid-state haptic button system that will replace traditional mechanical buttons and enhance the uninterrupted look of the device's display, claims Chinese leaker \"[Instant Digital](https://weibo.com/5143897135/QDPJEnAFL).\"\n&gt;\n&gt;According to the Weibo-based leaker, the buttons have already passed tests for use when wearing gloves or having wet hands, in extreme temperatures, and when the phone has a case on.\n&gt;\n&gt;The"
+  },
+  {
+    "subreddit": "apple",
+    "title": "Apple Explores Using Intel and Samsung to Build Main Device Chips in the US (Gift Link)",
+    "author": "pdfu",
+    "ups": 94,
+    "url": "https://reddit.com/r/apple/comments/1t43d93/apple_explores_using_intel_and_samsung_to_build/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "[reposted with gift link]\n\n&gt;Apple Inc.\u00a0has held exploratory discussions about using\u00a0Intel Corp.\u00a0and\u00a0[Samsung Electronics Co.](https://www.bloomberg.com/quote/005930:KS)\u00a0to produce the main processors for its devices, a move that would offer a secondary option beyond longtime partner\u00a0Taiwan Semiconductor Manufacturing Co.\n&gt; \n&gt;The iPhone and iPad maker has had early-stage talks with Intel about enlisting the company\u2019s chipmaking services, according to people familiar with the deliberation"
+  },
+  {
+    "subreddit": "apple",
+    "title": "Apple Plans to Let Users Build Their Own Passes in iOS 27 Wallet App",
+    "author": "Coolpop52",
+    "ups": 713,
+    "url": "https://reddit.com/r/apple/comments/1t3ov5b/apple_plans_to_let_users_build_their_own_passes/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "\u201cToday, the Wallet app is primarily used to access passes from third-party apps, along with credit and debit cards for Apple Pay, digital keys and retailer gift cards. But many services still don't offer passes that are compatible with the Wallet platform.  \nTo address that gap, Apple has developed a pass-building tool for iOS 27 Wallet, according to people with knowledge of the matter. The feature lets users take a QR code and generate a custom pass around it, said the people, who asked not to "
+  },
+  {
+    "subreddit": "software",
+    "title": "I'm running a large scale survey about how programmers feel about AI and publishing results publicly",
+    "author": "brodagaita",
+    "ups": 2,
+    "url": "https://reddit.com/r/software/comments/1t5uqvu/im_running_a_large_scale_survey_about_how/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "I'm running a survey out of pure curiosity to check the pulse on how we're all feeling about AI and how we're using it.\n\nThe results are publicly available at [https://thesoftwaresurvey.com/](https://thesoftwaresurvey.com/) and can be filtered down to every category so you can see e.g. how anxious those with 15+ years of experience feel compared to those with 0-1 years of experience. Or what tools are the most used by devs with 4-6 years of experience who report thinking that they're 10x more pr"
+  },
+  {
+    "subreddit": "software",
+    "title": "Program to draw on individual frames of a video?",
+    "author": "ifuckinglovemoths",
+    "ups": 1,
+    "url": "https://reddit.com/r/software/comments/1t5swrw/program_to_draw_on_individual_frames_of_a_video/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "So, for an art project I need to record a (live-action) film and animate on top of it, but I\u2019m relatively new to this kind of thing. Are there any (if possible free, as I\u2019m broke) programs I could use to do this? It wouldn\u2019t need to be anything super fancy, I basically just need to be able to get the individual frames and although it would be cool if it was the sort of thing where I can easily animate in the video itself, the most basic thing I need is just all of the frames individually and the"
+  },
+  {
+    "subreddit": "software",
+    "title": "Is 50 SSRS on one VM possible or a staged demo??",
+    "author": "Competitive-Wall-288",
+    "ups": 0,
+    "url": "https://reddit.com/r/software/comments/1t5p6va/is_50_ssrs_on_one_vm_possible_or_a_staged_demo/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "We tested a new SSRS product this week and I genuinely can\u2019t tell if this is actually viable long term or if we just had a really good lab run.\n\nWe had 50+ separate SSRS environments running on one VM at the same time for testing and training purposes.\n\nEverything stayed responsive, startup times were quick, and resource usage was way lower than I expected.\n\nI\u2019ve spent enough time dealing with SSRS environments to know this normally becomes a mess pretty fast, so I\u2019m curious if anyone else has s"
+  },
+  {
+    "subreddit": "software",
+    "title": "Lightweight, open-source app to mirror iPhone notifications to Windows?",
+    "author": "alisyus",
+    "ups": 5,
+    "url": "https://reddit.com/r/software/comments/1t5iue3/lightweight_opensource_app_to_mirror_iphone/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I am much more focused when my phone is not with me. However, in this case, I miss out on important notifications. If I leave the phone aside with the notification sound turned on, there is a high risk of losing my focus again once I pick it up. Is there a lightweight, secure, and open-source application that allows me to see my phone notifications on my computer? Being lightweight is crucial because I don't want to put an extra load on my PC just to see notifications. Even if all notifications "
+  },
+  {
+    "subreddit": "software",
+    "title": "A tool for editing and converting images, focused on print and color accuracy.",
+    "author": "CompulsiveCode",
+    "ups": 1,
+    "url": "https://reddit.com/r/software/comments/1t5ihjm/a_tool_for_editing_and_converting_images_focused/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "I work in the world of digital print, and often have to work with CMYK images, or have to convert images between colorspaces.\n\nI didn't see a ton of free tools that really support color conversions or working in colorspaces other than RGB.  Even transparency support seems inconsistent from program to program.  Especially when working with 40-bit CMYKA.  The basic image editors like IrfanView and XNview don't do what I need.  \n\n\n\nSo I started out just writing a simple image converter.  It balloon"
+  },
+  {
+    "subreddit": "software",
+    "title": "Built batch image -&gt; PDF in Rust, ran into layout questions",
+    "author": "UnderstandingFit2711",
+    "ups": 1,
+    "url": "https://reddit.com/r/software/comments/1t5hymh/built_batch_image_pdf_in_rust_ran_into_layout/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Been working on a side project image converter, just shipped batch image -&gt; PDF. Took way longer than expected because of layout edge cases.\n\nBiggest headache - mixed aspect ratios in a batch. 9:16 screenshot next to a 4:3 scan next to a square. Went with scale - to - fit + center + white background. Not sure if \"fill and crop\" would feel more natural to most people tbh.\n\nOrientation was annoying. Added auto mode that picks portrait / landscape per image. Seemed smart until I realized mixed b"
+  },
+  {
+    "subreddit": "software",
+    "title": "New Company,New App",
+    "author": "EmbarrassedPapaya695",
+    "ups": 6,
+    "url": "https://reddit.com/r/software/comments/1t5dymy/new_companynew_app/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "So me and my friends made a team for creating apps that help and actually does its job\n\nWe here at Sodaso we offer you our newly launched app\nMurjune\nIts a windows tweaker that does this list\nDisable Microsoft bloat \nLike Cortana,windows news,copilot,onedrive and more will be added\nyou can also toggle the windows update and you can change your DNS you have 3 options \n1 profiles\n2 manual\n3 DHCP \n\nAlso we have a network fix\nAnd registry fix and xbox and Microsoft store repair if it got broken with"
+  },
+  {
+    "subreddit": "software",
+    "title": "Help - Google as a search engine disappeared as an option",
+    "author": "Minute_Music_8132",
+    "ups": 0,
+    "url": "https://reddit.com/r/software/comments/1t5cwt8/help_google_as_a_search_engine_disappeared_as_an/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Update: The problem was fixed. Another user on a crossposted subreddit helped me figure out it was a hijacked extension. I found it, deleted it, Uninstaller and reinstalled Google Chrome and now it is behaving properly. \n\n\n\nI was up at 3 am looking for help for one of my children's health issues.  I had a Google search open in one tab, and I was working in a Word document.  My computer did this unprompted weird flutter, and then my Google search appearance changed. What I had been searching for "
+  },
+  {
+    "subreddit": "software",
+    "title": "I built a local photo/file organizer - organize as timeline and/or GPS cluster on map",
+    "author": "adwigro",
+    "ups": 1,
+    "url": "https://reddit.com/r/software/comments/1t5bib6/i_built_a_local_photofile_organizer_organize_as/",
+    "matches": [
+      "ai",
+      "app",
+      "local"
+    ],
+    "text": "Hello all,  \nI\u2019m building GROSIFT for people with messy photo/file archives, old screenshots and duplicate media. It helps inspect files by place/time, search text in screenshots/scans/PDFs, and review duplicate/similar media before deleting anything.\n\n**- GPS map &amp; timeline**  \nBrowse photos by place and time to rediscover trips, events, and old archives faster.\n\n**- OCR search**  \nSearch text in screenshots, scans, images, and PDFs.\n\n**- Storage insights**  \nFind large folders and files be"
+  },
+  {
+    "subreddit": "software",
+    "title": "Survey: Building Software in 2026",
+    "author": "brodagaita",
+    "ups": 0,
+    "url": "https://reddit.com/r/software/comments/1t59pvz/survey_building_software_in_2026/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "Hey everyone! It's pretty clear that AI is changing our whole industry but there are really diverging opinions on how, if it's good or bad, and what the future will hold.\n\nPlus we're all using different tools and we're also all at different stages of AI use.\n\nFor this reason I set up a survey to better understand how our peers are using AI and how we collectively feel about it.\n\nAnswering takes just 5min but will give us a nice picture of where things stand and I'll share the results once enough"
+  },
+  {
+    "subreddit": "software",
+    "title": "Built a free offline SEM desktop app (PLS-SEM + CB-SEM) \u2014 looking for people to break it",
+    "author": "Unusual-Radio8382",
+    "ups": 1,
+    "url": "https://reddit.com/r/software/comments/1t593gk/built_a_free_offline_sem_desktop_app_plssem_cbsem/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Disclaimer: self promotion. "
+  },
+  {
+    "subreddit": "software",
+    "title": "[Feedback wanted] Vorn \u2013 a local backup tool with deduplication and content-addressable storage. Be honest.",
+    "author": "LeonardoCiaccio",
+    "ups": 3,
+    "url": "https://reddit.com/r/software/comments/1t57xac/feedback_wanted_vorn_a_local_backup_tool_with/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "Hey r/software,\n\nFirst post here, so I'll keep it short and get straight to the point: I'd love an honest critique of a project I've been building.\n\n**Vorn** (Vault Of Redundant Nodes) is a cross-platform desktop backup app I wrote in Electron + Vue 3. The core idea is simple: instead of copying files blindly, every file is identified by its **BLAKE3 hash** and stored only once \u2014 even across multiple sessions and backup runs. Identical content takes zero extra space, no matter how many times you"
+  },
+  {
+    "subreddit": "software",
+    "title": "How I gave Claude a real long-term memory \u2014 and why it lives in a SQL database",
+    "author": "Open-Race-5642",
+    "ups": 0,
+    "url": "https://reddit.com/r/software/comments/1t55xla/how_i_gave_claude_a_real_longterm_memory_and_why/",
+    "matches": [
+      "mac",
+      "ai",
+      "context",
+      "app",
+      "tool"
+    ],
+    "text": "If you\u2019ve spent any real time working with a large language model in the last two years, you\u2019ve felt the same papercut over and over again:\n\n&gt;\n\nYou haven\u2019t, of course \u2014 not really. There is no\u00a0*last week*\u00a0for the model. Each new conversation lands on a clean desk. You re-introduce yourself, you re-explain the project, you re-paste the constraints, you re-list the preferences, and twenty minutes later the model knows you again \u2014 until you close the tab.\n\nThat round-trip is the hidden tax of wo"
+  },
+  {
+    "subreddit": "software",
+    "title": "I built an app for the anxiety of walking into therapy unprepared. Free forever, runs offline.",
+    "author": "Emojinapp",
+    "ups": 4,
+    "url": "https://reddit.com/r/software/comments/1t55gkh/i_built_an_app_for_the_anxiety_of_walking_into/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I kept showing up to therapy sessions and blanking. Forty-five minutes would pass. I\u2019d leave feeling like I wasted it. Then on the drive home, everything I actually wanted to say would come flooding back.  \nI built Prelude for that.  \nIt\u2019s a voice agent that has a short conversation with you before your session to surface what\u2019s actually on your mind. After the conversation it generates a structured brief you and your therapist can browse together. My own therapist said sessions noticeably impro"
+  },
+  {
+    "subreddit": "software",
+    "title": "I got tired of context switching for common tools so I made them an always on top suit for Windows",
+    "author": "CriticalInitial85",
+    "ups": 0,
+    "url": "https://reddit.com/r/software/comments/1t54y88/i_got_tired_of_context_switching_for_common_tools/",
+    "matches": [
+      "mac",
+      "productivity",
+      "ai",
+      "workflow",
+      "context",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "It started with a simple frustration. Every time I needed to take a quick note, check my tasks, or check my calendar, I had to stop what I was doing, Alt+Tab, find the right app, do the thing, then try to remember where I was and come back That context switch sounds small but it adds up to a lot of lost focus and eye strain.\n\nSo I built [FlowFloat](https://www.flowfloat.app/), just launched on[ Microsoft Store](https://apps.microsoft.com/detail/9N0V5P8LTQMQ?hl=en-us&amp;gl=US&amp;ocid=pdpshare)."
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "\ud83d\udcb2109 selling my FL property tax appeal SaaS \u2014 3-day hot sale, then \ud83d\udcb2300, then 3K",
+    "author": "Positive-Airport-554",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5weos/109_selling_my_fl_property_tax_appeal_saas_3day/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Built solo over 8 months. Listing because I'm scaling another product.\n\nWhat it is: Florida commercial property tax appeal SaaS. AI generates DR-486 petitions with statute-correct citations (\u00a7 193.011, \u00a7 194.011(3)(d), \u00a7 194.301). React + Vite + Supabase + 65 Edge Functions + Cloudflare Pages + 14 Magic Builder modes.\n\nDemo: https://parceled.pages.dev/demo (Reviewer JWT in &lt;1s, no signup, full appeal flow)\n\nVerify claims: https://parceled.pages.dev/security/audit (15 copy-paste curls)\n\n$0 MRR"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "Spent 4 weeks building a Shopify app instead of finding customers. Here's what I'd do differently.",
+    "author": "Shirt_lancer",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5w72k/spent_4_weeks_building_a_shopify_app_instead_of/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "I'm a solo founder. Background is mechanical design, not software. Earlier this year I started building a tool for Shopify store owners after running into a problem with my own store \u2014 high traffic, plenty of add-to-carts, zero orders, and no audit tool could tell me why.\n\nBuilt for 4 weeks straight. Got the OAuth working, the data pipeline running, the dashboard polished, the legal pages written, the GDPR webhooks deployed, the listing copy locked. Submitted to Shopify App Store last week.\n\nAnd"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "I built a no-signup bathroom finder because the existing apps only let you rate, not update",
+    "author": "holymushy",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5w6ip/i_built_a_nosignup_bathroom_finder_because_the/",
+    "matches": [
+      "app",
+      "local"
+    ],
+    "text": "Live: [https://oscar-leung.github.io/restroom-finder/](https://oscar-leung.github.io/restroom-finder/)\n\n\n\nTwo things bugged me about every existing toilet-finder app:\n\n\n\n1. The biggest one only lets you rate places. If a bathroom got a code-lock or closed, there is no way to fix the listing.\n\n2. Most of them will not let you add a place unless you are physically standing on it.\n\n\n\nSo I built Gotta Go. Opens to one big GO button. Tap it, you get the closest public restroom to where you are, one m"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "Moved to another country and built my first app ever. Here's what came out of it.",
+    "author": "Party_Nectarine2506",
+    "ups": 0,
+    "url": "https://reddit.com/r/SideProject/comments/1t5vzrf/moved_to_another_country_and_built_my_first_app/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Honestly I'm not great at writing, I prefer systems and numbers.\nSo here are some numbers:\n\n1. 2 weeks of development\n2. 40 iterations and 2 App Store approval\n3. I'm 37\n4. 1 son, 9 years old\n5. 1 wife, together for over 10 years\n6. 15 years in real estate, always dreamed of moving online\n7. Moved to another country without language 4 years ago and realized I don't want to do real estate anymore\n8. After the move \u2014 1-3 times a week, fancy alcohol at home with fancy snacks. \n9. End result: +25 kg"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "Built ImageSuite \u2014 23 image tools, 9/mo flat, no credit games",
+    "author": "Boring_Condition_929",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5vzlg/built_imagesuite_23_image_tools_9mo_flat_no/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "    I'm a solo dev. Last year I needed to compress a batch of photos for a client and bounced between 4 different sites \u2014 each had ads, watermarks, file-size caps, or a \"wait 30s\" timer.\n    \n    I'd been wanting to build something for a while, so I built **[ImageSuite](\n    https://imagesuite.io\n    )**\n    :\n    \n    - 14 free tools (compress, resize, convert, watermark, crop, PDF\u2194image, collage, filters, etc.) \u2014 all run in your browser, no upload.\n    - 10 Pro AI tools at a flat $9/mo: AI gen"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "I built things that worked. They still didn't.",
+    "author": "NetLast4979",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5vx8w/i_built_things_that_worked_they_still_didnt/",
+    "matches": [
+      "ai",
+      "workflow",
+      "automation",
+      "app",
+      "tool"
+    ],
+    "text": "I built two things this year. PixelForge and ACGZ. One was a landing page audit tool. The other was a mobile CRM for recruiters. Both worked. Neither worked out.\n\nPixelForge was the one I believed in more. It scored your page, told you what was broken, gave you one-click fixes. Clean. Fast. Useful. I thought \"everyone needs this.\" And they do. But they weren't paying for it. I tried changing the pricing. I tried different messaging. I tried cold outreach, content, communities. Nothing moved the "
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "Built a pay-as-you-go licensing API because every alternative was a subscription",
+    "author": "RAZK0M",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5vphl/built_a_payasyougo_licensing_api_because_every/",
+    "matches": [
+      "mac",
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "I had two small projects I wanted to put behind license keys. Every licensing tool I found was subscription-based. The problem with subscriptions for a solo dev is the math: if I get 10 paying customers and growth stops, the tool keeps billing me forever. You're paying for the privilege of having sold something once.\n\nSo I built AuthForge with usage-based pricing instead. One credit per login, one per 10 heartbeats. Zero users this month means zero cost. No monthly minimum. If the app you're pro"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "Project feedback - Crevaxo - CRM and licensing tool for photographers",
+    "author": "P_R_E_N_T",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5vh3e/project_feedback_crevaxo_crm_and_licensing_tool/",
+    "matches": [
+      "ai",
+      "workflow",
+      "tool"
+    ],
+    "text": "The product\n\nCrevaxo is an all-in-one business tool for photographers and other creatives who license their work commercially. It combines client and project management, an asset library, client proofing portals, and a licensing engine that lets you create, send, sign and collect payment for usage licenses in one place.\n\nThe market\n\nPhotographers managing commercial work currently piece together 4-6 tools - HoneyBook or Dubsado for CRM, Google Drive for assets, DocuSign for contracts, Stripe for"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "Built a small AI SaaS for SEO agencies \u2013 looking for feedback",
+    "author": "SnooPeripherals4216",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5vh3d/built_a_small_ai_saas_for_seo_agencies_looking/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Built this tonight to test an idea.\n\n\n\nCloseSEO turns SEO discovery calls into proposals, pricing and deliverables using AI.\n\n\n\nWould love honest feedback:\n\n[https://closeseo.vercel.app](https://closeseo.vercel.app)"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "I Built a Free App to Help Me with Small Talk. Maybe It Can Help You Too",
+    "author": "kramden88",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5v41m/i_built_a_free_app_to_help_me_with_small_talk/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I'm bad at small talk. Not \"anxious in groups\" bad, more like \"saw my girlfriend's coworker at a bar and ran out of things to say in 90 seconds\". So I built something to help.\n\n**Inkling** lets you make a quick entry for the people in your life, jot down what they're into (cooking, the Yankees, indie horror, whatever), and tap \"Prep\" before you see them. It pulls from \\~70 RSS feeds in the background and drafts 3-5 conversation starters from the past week's news that match their interests. Stuff"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "rough prototype of 3 species around human / AI / organizations for future collaboration",
+    "author": "ae-connection",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5v3h3/rough_prototype_of_3_species_around_human_ai/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I\u2019ve been working on a rough open-source prototype called SuperNova 2177.\n\nLive alpha prototype: https://www.2177.tech\n\nRepo: https://github.com/BP-H/SN-1\n\nThe basic idea is: a social app where humans, AI actors, and organizations are separate visible account types and the decisions/executions are being made with 3 species protocol, manual for now. \n\nIt has an early feed, profiles, proposals, comments, voting, follows, uploads, and some AI-delegate/governance experiments. It is still alpha and v"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "Why I believe every productivity tool eventually fails you",
+    "author": "Slight-Commission494",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5v1t0/why_i_believe_every_productivity_tool_eventually/",
+    "matches": [
+      "productivity",
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "Long post. Worth it if this problem resonates with you.\n\n# The problem I couldn't shake\n\nI kept having days that felt productive but weren't. I'd sit down at 9am, look up, and it'd be 2pm. Not because I was doom-scrolling. But because I was just... drifting. Low-value task switching. The invisible kind of time loss.\n\nI looked it up. The average knowledge worker loses around 47 days a year to this. Not deliberate distraction, just the unconscious accumulation of unfocused time. Nobody notices unt"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "Built a TrainerRoad-style indoor cycling app where AI adapts real workouts to your time and fatigue, no subscription",
+    "author": "reidlalala",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5ugn1/built_a_trainerroadstyle_indoor_cycling_app_where/",
+    "matches": [
+      "ai",
+      "app",
+      "local"
+    ],
+    "text": "Been building \"Bonk\" solo in the early mornings between workouts and work. \n\nCore idea: structured indoor training on a smart trainer (KICKR etc) without paying $20/mo for someone else's plan that doesn't fit your week.\n\n**What it does:**\n\n* AI picks from a growing library of structured workouts and adapts them to your time and fatigue. Got 45 minutes today instead of 90? It compresses without losing the point of the session.\n* Trainer runs ERG mode and holds target watts. The Apple Watch's Digi"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "I built an open-source 6-agent AI pipeline that picks stocks autonomously \u2014 here\u2019s what it output today",
+    "author": "Downtown_Extension_6",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5ueql/i_built_an_opensource_6agent_ai_pipeline_that/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "Been building ProspectAI for the past few months \u2014 an agentic unvestment research pipeline that runs fully autonomously.\n\nThe pipeline:  \nReddit sentiment \u2192 Technical analysis (13+ indicators) \u2192   \nFundamental analysis \u2192 Draft strategy \u2192 Adversarial critic \u2192 Final strategy\n\nThe critic agent is the part I'm most proud of. It reviews the draft output, flags failures (CRITICAL / MAJOR / MINOR severity), and forces the strategist to revise before final output. Today it rejected the first Energy sect"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "How to get up to 100K+ USD in Free Claude API Credits in 2026 (6 Legit Paths)",
+    "author": "Exact_Pen_8973",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5uarx/how_to_get_up_to_100k_usd_in_free_claude_api/",
+    "matches": [
+      "ai",
+      "workflow",
+      "app",
+      "local"
+    ],
+    "text": "**TL;DR:** A Korean founder recently went viral for getting $10K in free Claude credits just by joining a local startup association. It turns out there are 6 official programs across Anthropic, AWS, and GCP right now where you can get anywhere from $1,000 to $150,000+ in Claude credits. And yes, you can stack them.\n\nHere is the full landscape of verified, active programs right now (no sketchy reseller schemes).\n\n**The 6 Legit Paths to Free Claude Credits:**\n\n**1. Anthropic Startup Program (Antho"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "Spent 6 weeks turning a hackathon win into a real app. Here\u2019s what I learned about the \"MVP trap.\"",
+    "author": "Gary_26",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5u4zk/spent_6_weeks_turning_a_hackathon_win_into_a_real/",
+    "matches": [
+      "ai",
+      "workflow",
+      "app",
+      "tool"
+    ],
+    "text": "Six weeks ago, my idea won a hackathon. The high was great, but the reality was harder: the code was a mess, and the scope was too small.\n\nI\u2019m a Senior PM by day, so I decided to treat this like a real product launch. I\u2019ve spent every night since then building \"AI Decoded.\" The goal: Bite-sized AI learning for busy people.\n\n**The hard part:** Sorting through the 100+ concepts and curating the curriculum into bite sized real life examples and PM workflows. \n\nI just put the initial version live. I"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "I built an open source library for running local LLMs in a web browser at zero cost",
+    "author": "lordhiggsboson",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5txuf/i_built_an_open_source_library_for_running_local/",
+    "matches": [
+      "ai",
+      "local"
+    ],
+    "text": "I hated wasting money on LLM APIs for small prototypes and side experiments. I ended up going down a massive rabbit hole on inference optimizations, and WebGPU acceleration. What came out is an open-source NPM package that allows you to run local LLMs entirely in the browser.\n\nI've been playing around with different use cases, like RP avatars, chat/help bots, and using the vision capabilities to analyze drawings in real-time (this is what the video shows). For small models, like the LFM 2.5 350M"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "I rebuilt pump.fun mechanics so you can play with friends instead of strangers",
+    "author": "PinDismal8041",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5ts78/i_rebuilt_pumpfun_mechanics_so_you_can_play_with/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "[Pump.fun](http://Pump.fun) is fun for about 20 minutes, until you realize the other side of every trade is an anonymous degen who's already won. The mechanics are great, bonding curves, instant pumps, brutal dumps. But the social layer is missing. The actual fun part of trading is the group chat: the coordinated pumps, the betrayals, the screenshots.\n\n\n\nSo I built Stock Wars. Same AMM math, same real-time price action, designed for friend groups instead of strangers:\n\n\n\n\\- Fake money, weekly le"
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "useknockout day 15, first dashboard look at real traffic 50 GH stars and 4k downlaods",
+    "author": "KingOfAllContent",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5tpfb/useknockout_day_15_first_dashboard_look_at_real/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Shipped a SOTA image API on the 22nd of last month so \\~15 days  (bg removal + super-res + face restore + 17 other endpoints). Now 50 GH stars, 3k+ npm/PyPI downloads which for me I am happy about because I have about 8 solid projects i have been building out for the past year or two some even longer and I build them out and never release and I am getting ready to have job-nexus go live this week probably tomorrow. \n\nJob Nexus is a job-search command center that combines automated job scraping ("
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "I started building traditional Chinese wooden ship models for overseas collectors",
+    "author": "Bright-Letter5353",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5tik7/i_started_building_traditional_chinese_wooden/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": "I\u2019ve been working on handcrafted Chinese wooden ship models inspired by historical trading ships and treasure fleets.\n\nMost of the hull is machine-cut first, then the smaller details are finished by hand \u2014 especially the deck structures, railings and stern carvings.\n\nRecently I started trying to sell them internationally and built a small website for it. Still learning packaging and overseas shipping because the models are fragile \ud83d\ude05\n\nWould love feedback on the presentation and overall idea."
+  },
+  {
+    "subreddit": "SideProject",
+    "title": "I built a TikTok-style app for learning",
+    "author": "Paludis",
+    "ups": 1,
+    "url": "https://reddit.com/r/SideProject/comments/1t5tffy/i_built_a_tiktokstyle_app_for_learning/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I\u2019ve been working on a side project for the past few months and just launched it: DeepSwipe\n\n[https://www.deepswipe.app](https://www.deepswipe.app)\n\nThe idea is simple:\n\nTake your short form video scrolling habit and turn it into something productive with very little friction - I give you a swipeable feed of short, engaging stories pulled from Wikipedia: history, science, space, weird facts, etc\n\nEach \u201cswipe\u201d is like:\n\n* a 30\u201360 sec mini story\n* with animated visuals + narration\n* and it adapts "
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "Killed my own paywall and rebuilt as free site + paid mobile app. Here\u2019s what I\u2019d do differently.",
+    "author": "Wise-Cardiologist-31",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5wdfs/killed_my_own_paywall_and_rebuilt_as_free_site/",
+    "matches": [
+      "ai",
+      "app",
+      "privacy"
+    ],
+    "text": "Built a bilingual AI nail design app called Nail Check. Started it as a WordPress membership product. Paid plans, Stripe checkout, the whole gated funnel.  \nIt worked, sort of. Conversion was bad. The marketing site couldn\u2019t breathe because the CTA was always \u201csubscribe now.\u201d People came to look at AI-generated nail designs, hit a paywall on the second click, and bounced.  \nA few weeks ago I tore it apart. Pulled Stripe out of WordPress entirely. Made the site free and marketing-focused, no gate"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "What SaaS metric ended up mattering way more than you expected?",
+    "author": "Important-Mess7271",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5w7kw/what_saas_metric_ended_up_mattering_way_more_than/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "For me, it was churn.\n\nAt first I thought ARR growth was the main thing that mattered, but after digging deeper into SaaS valuation and investor expectations, retention quality seemed to affect everything else downstream.\n\nA lot of founders talk about:\n\n\\- ARR\n\n\\- MRR\n\n\\- CAC\n\n\\- LTV\n\nBut low churn and expansion revenue seem to completely change how healthy a SaaS business actually looks.\n\nI was comparing a few SaaS valuation tools while researching this and found [SaaSClue ](https://saasclue.co"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "The B2B SaaS playbook that's quietly killing the ''enterprise-first'' model",
+    "author": "Reyny",
+    "ups": 7,
+    "url": "https://reddit.com/r/SaaS/comments/1t5w248/the_b2b_saas_playbook_thats_quietly_killing_the/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "i've been tracking a pattern in B2B SaaS for about 18 months now and i finally have enough examples to write it down. there's a specific way some companies are moving upmarket that's inverting the conventional wisdom about how enterprise software gets sold, and the companies pulling it off are quietly eating the lunch of incumbents who've been doing this for decades.\n\nthe short version: the best way to win enterprise deals right now is to start by selling to small teams and never lose that DNA. "
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "Target Market Help - Catching Silent Bugs for Vibe Coders &amp; Developers",
+    "author": "ExpertBirdLawLawyer",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5vvr9/target_market_help_catching_silent_bugs_for_vibe/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "Founder here, and with a bit of a back story, I own a Shopify agency and we built this internal tool to help us find client UX and bug issues faster by installing a small 11kb pixel that tracks clicks, hover, zoom, tab switches, etc and builds cases for you to send to your client (think Hot Jar or Microsoft Clarity but without ever having to review a video again).  \n\nWe then found that others in our circled wanted to use it on their clients as well, and some time passes and we have some paying c"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "Regarding Email /SMS/Whatsapp message integrations",
+    "author": "KoalaEcstatic295",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5vmug/regarding_email_smswhatsapp_message_integrations/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Hi There   \nHave anybody integrated EMAIL/SMS/Whatsapp messaging in their SaaS product. Is that free?  \nI was building a SaaS product for my own and need to integrate that to my app "
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "Built a tiny AI tool for SEO agencies to generate proposals from discovery calls",
+    "author": "SnooPeripherals4216",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5vgbn/built_a_tiny_ai_tool_for_seo_agencies_to_generate/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "Hey,\n\n\n\nI\u2019m testing a small SaaS called CloseSEO.\n\n\n\nThe idea is simple:\n\nturn SEO discovery calls into polished proposals, pricing and deliverables automatically using AI.\n\n\n\nWould genuinely love honest feedback from SEO people/agencies.\n\n\n\n[https://closeseo.vercel.app](https://closeseo.vercel.app)"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "I co-own a rental with 2 friends. Tracking money was nightmare and created so many issues. So I built something.",
+    "author": "OccasionNo4703",
+    "ups": 2,
+    "url": "https://reddit.com/r/SaaS/comments/1t5v3tw/i_coown_a_rental_with_2_friends_tracking_money/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "We tried spreadsheets. We tried splitting things in WhatsApp. We tried \"just trust me I'll sort it at the end of the month.\" None of it worked. Someone always felt like they were paying more. Receipts got lost. Distributions were always an argument.\n\nThe software that existed was either built for accountants or built for splitting dinner bills. Nothing in between for people like us, regular folks who co-own a property and just want to know: who paid what, who owns what, and how do we split the p"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "New Age Verification API ZoiVera",
+    "author": "No_Entertainment4613",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5uww6/new_age_verification_api_zoivera/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Founder here - We have released a new API for developers to use in order to verify the ages of users on their websites/apps. The methods we have are 100% on device, removing the main issue of data being accessed by hackers and other people not supposed to access the data. If anyone uses it, please let us know about any errors or recommendations! We will be happy to respond and add good suggestions! "
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "What if SaaS pricing pages showed plan differences visually instead of using checkmarks?",
+    "author": "Strange-Web-251",
+    "ups": 2,
+    "url": "https://reddit.com/r/SaaS/comments/1t5ufe2/what_if_saas_pricing_pages_showed_plan/",
+    "matches": [
+      "workflow",
+      "automation",
+      "tool"
+    ],
+    "text": "I\u2019ve noticed that a lot of SaaS pricing pages are honestly hard to understand.\n\nMost companies just throw users into massive comparison tables with:\n- vague feature names,\n- checkmarks,\n- technical jargon,\n- and multiple confusing plans.\n\nUsers are left figuring out:\n- what actually changes between plans,\n- whether upgrading is worth it,\n- and which plan fits them best.\n\nSo I\u2019m currently building a service focused specifically on visual subscription plan differentiation for SaaS companies.\n\nThe "
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "Problem, Solution &amp; Tech \u2013 Professional Tone",
+    "author": "Upstairs_Analyst2660",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5tzqf/problem_solution_tech_professional_tone/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "Marketers and agencies are losing 20\u201340% of their ad budget to dirty tracking data.\n\nBroken multi-touch attribution, missing server-side events, and tool sprawl make it nearly impossible to trust what the numbers are telling you. Without a single source of truth, decisions are made in the dark.\n\nI\u2019m building AdFlow Guard, a server-side event proxy that sits between your website and ad platforms (Facebook CAPI, Google Ads, TikTok Events). It validates, deduplicates, enriches, and fans out your ev"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "I\u2019m testing free tools to grow my SaaS. First up: AI search optimisation",
+    "author": "dsco",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5tj0o/im_testing_free_tools_to_grow_my_saas_first_up_ai/",
+    "matches": [
+      "ai",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "I\u2019m trying to grow my SaaS using only free tools and new channels, so I figured I\u2019d test optimising for AI search. Thought I\u2019d document what\u2019s actually useful vs. what\u2019s just a free audit, disguised trial, or \u201cbook a demo\u201d funnel.\n\nBy that I mean tools that help you understand whether your SaaS shows up when people ask ChatGPT, Gemini etc for recommendations in your SaaS category.\n\nFor example: if someone asks \u201cbest tools for \\[your category\\]\u201d or \u201calternatives to \\[competitor\\],\u201d does your prod"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "Anyone done a rebrand for a long-standing SaaS? Looking for the gotchas and success stories!",
+    "author": "West-Wash-9114",
+    "ups": 0,
+    "url": "https://reddit.com/r/SaaS/comments/1t5tckd/anyone_done_a_rebrand_for_a_longstanding_saas/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "Been running the same SaaS for 12+ years. It started as a very niche tool for a very specific audience, and the brand name reflects that, which was fine when we only had one customer type in mind.\n\nThe problem: the product has grown well beyond that original niche. We now serve a broader market but the name and brand identity actively work against us. We hear it in the support tickets. We see it in the hesitation. People assume we're not for them before they even look.\n\nI've been putting off a r"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "Any small growing SaaS founders struggling with runway, pricing, or messy numbers?",
+    "author": "Party-Dig3967",
+    "ups": 2,
+    "url": "https://reddit.com/r/SaaS/comments/1t5t4rz/any_small_growing_saas_founders_struggling_with/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I work with small businesses on the finance side, and I\u2019m trying to better understand how finance problems show up inside early SaaS companies.\n\nOne pattern I keep thinking about is this:\n\nA SaaS business can have users, revenue, Stripe payments, invoices, and some growth activity but still not have a clear financial picture.\n\nThe bank balance says one thing.  \nMRR says another.  \nCosts keep increasing.  \nChurn is hard to read.  \nRunway is unclear.  \nPricing may have been set before the real cos"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "I wasted too much time on Google Maps looking for clients. So I built a tool that does it for me.",
+    "author": "RipGeneral3953",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5se3s/i_wasted_too_much_time_on_google_maps_looking_for/",
+    "matches": [
+      "ai",
+      "workflow",
+      "tool",
+      "local"
+    ],
+    "text": "For couple of weeks I spent too much time on google maps looking for clients\n\nI do outbound for local businesses, and my angle was pitching shops without a website yet plumbers, salons, mechanics, food trucks. Obvious problem, easy sale, less competition than chasing the same SMBs every other agency emails.\n\nFinding them was brutal though. My day looked like:\n\n* Search a category + city on Maps\n* Click each pin, check if there's a website\n* If no website --&gt; copy name, phone, address into a s"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "I made a quiz that tells you your founder personality type",
+    "author": "everythinelseistaken",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5s5kv/i_made_a_quiz_that_tells_you_your_founder/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I spend a lot of time reading about what other people are building online and one thing I kept noticing is how differently everyone approaches it.  \nSome people ship first and figure it out later. Some are obsessed with getting every detail right before launching. Some are already three pivots ahead of their actual product.\n\nSo I built a little quiz that tells you what type of founder you are. 10 questions, 90 seconds, six archetypes. Free, no signup."
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "Building a startup \u201cops layer\u201d (AI + dev + automation + teams) feedback on model + cold email stack?",
+    "author": "Majestic_Sherbert_28",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5rzq2/building_a_startup_ops_layer_ai_dev_automation/",
+    "matches": [
+      "ai",
+      "automation",
+      "app"
+    ],
+    "text": "Hey \n\nI\u2019m exploring a model where instead of building a SaaS product first, I start with a service that acts as an \u201cops layer\u201d for startups.\n\nMy Plan:\n\nProvide AI systems, dev, automation, and offshore teams under one structure basically handling execution so founders can focus on growth.\n\nLong term, this could evolve into more productized systems.\n\nRight now I\u2019m validating through cold outreach (\\~200\u2013300 emails/day).\n\nStack I\u2019m considering:  \nMultiple inboxes (domain-based)\n\nManyreach vs Insta"
+  },
+  {
+    "subreddit": "SaaS",
+    "title": "Security reviews for AI-generated code",
+    "author": "catfishman112",
+    "ups": 1,
+    "url": "https://reddit.com/r/SaaS/comments/1t5qzqh/security_reviews_for_aigenerated_code/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "https://preview.redd.it/k9qvqgwz7lzg1.png?width=2804&amp;format=png&amp;auto=webp&amp;s=77efac4b0af9d98da3ec9c9e0b554bd607f2f799\n\nBeen building [Stridely](https://stridely.dev) over the past few weeks.\n\nThe idea came from watching tools like Cursor, Copilot, and Claude Code generate code that looks correct, but quietly introduces risky auth flows, exposed APIs, leaked secrets, and missing ownership checks.\n\nYou connect a repo, Stridely reviews commits and code diffs using AI, then surfaces risky"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Best bang-for-buck rig for mass VLM image captioning?",
+    "author": "jobgh",
+    "ups": 2,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5w5cl/best_bangforbuck_rig_for_mass_vlm_image_captioning/",
+    "matches": [
+      "ai",
+      "local"
+    ],
+    "text": "Looking for hardware advice.\n\nI\u2019ve got a couple million images, taking up a dozen TB, and I need to generate medium length text descriptions for them. Maybe another paragraph per image. Basically batch VLM captioning at scale.\n\nQuality doesn\u2019t need to be amazing. I tested quantized Qwen3-VL 4B and it was already good enough. I\u2019m open to going down to \\~2B if it\u2019s much faster, or up to 9B if it\u2019s not a big speed difference. Main thing I care about is images/hour or tokens/min per dollar.\n\nI was t"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Dual 9700 and multi-node system - but do I go threadripper?",
+    "author": "Ell2509",
+    "ups": 0,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5v6u0/dual_9700_and_multinode_system_but_do_i_go/",
+    "matches": [
+      "mac",
+      "ai",
+      "context",
+      "local"
+    ],
+    "text": "My local AI workstation build is finally complete. The second and final GPU arrived, so the desktop now has the full dual-GPU setup.\n\nDesktop / main compute box\n\n\\- Ryzen 7 5800X\n\n\\- 2 \u00d7 Radeon Pro 9700 AI, 32GB VRAM each\n\n\\- 64GB combined VRAM on the desktop\n\n\\- 128GB DDR4\n\n\\- 2TB SSD + 1TB SSD + 2TB HDD\n\n\\- Linux Mint\n\n\\- 2 \u00d7 130mm and 7 \u00d7 120mm case fans\n\n\\- Thermalright Assassin CPU cooler\n\n\\- Blower-style GPUs\n\nThis is mainly for local inference, larger models, long-context testing, and gen"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Need advice on hardware purchasing decision: RTX 5090 vs. M5 Max 128GB for agentic software development",
+    "author": "BawbbySmith",
+    "ups": 2,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5v2gr/need_advice_on_hardware_purchasing_decision_rtx/",
+    "matches": [
+      "ai",
+      "context",
+      "app"
+    ],
+    "text": "tl;dr - For software development, Qwen3.6 27B, 5090 gives you ~3x speed over M5 Max, letting you plow through code, while M5 Max gives you ~4x memory, letting you use higher quantization and bigger context. Which would you choose and why?\n\n---\nI've been doing a lot of research on this topic for a couple weeks now, but I still can't fully decide one way or another. I'm hoping to hear some other people's opinions on this, ideally from people who have used these hardware, for the type of work I pla"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Multiple small ram sticks",
+    "author": "Ill_Ad_4604",
+    "ups": 0,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5sm4w/multiple_small_ram_sticks/",
+    "matches": [
+      "ai",
+      "local"
+    ],
+    "text": "Is their any use for 40+ sodimm ddr5 8GB sticks of RAM in any way aside from just selling them for local ai?"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Uploaded Unsloth Qwen3.6-35B-A3B UD XL models with MTP grafted, here are the results",
+    "author": "havenoammo",
+    "ups": 53,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5r4tz/uploaded_unsloth_qwen3635ba3b_ud_xl_models_with/",
+    "matches": [
+      "ai",
+      "local"
+    ],
+    "text": "Following my previous post https://www.reddit.com/r/LocalLLaMA/comments/1t5ageq, a few people asked for the 35B A3B version.\n \nThe model is up on HuggingFace at https://huggingface.co/havenoammo/Qwen3.6-35B-A3B-MTP-GGUF if anyone wants to check it out. It includes the isolated MTP layers and convert.py as well.\n \nThe results are not great though. Q4 only got a 6% speed increase and Q8 only 2.5%. On the 27B it was a 2-2.5x gain, so this could be related to the MTP implementation of llama.cpp and "
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Great results with Qwen3.6-35B-A3B-UD-Q5_K_XL + VS Code and Copilot",
+    "author": "supracode",
+    "ups": 19,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5pdf8/great_results_with_qwen3635ba3budq5_k_xl_vs_code/",
+    "matches": [
+      "ai",
+      "context",
+      "app",
+      "tool",
+      "local"
+    ],
+    "text": "Long post, but hopefully helps somebody. Llama-cpp vulkan server running single AMD R9700. The settings below are showing great results with a large prompt to generate a test website that ChatGPT gave me. I then ran a prompt to generate a full suite of  Playwright tests.\n\nI only had to nudge it once when creating the tests to tell it to fix one failing test at a time. The website was fully functional on first run.\n\nI think I am done tweaking and testing models (until the next big release) and ca"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "The GB10 Solution Atlas is now open source, the inference engine made for the community with breakneck inference speeds (Qwen3.6-35B-FP8 100+ tok/s)",
+    "author": "Live-Possession-6726",
+    "ups": 23,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5p2yv/the_gb10_solution_atlas_is_now_open_source_the/",
+    "matches": [
+      "mac",
+      "ai"
+    ],
+    "text": "Some of you saw our post a couple weeks back about hitting 102 tok/s stable on Qwen3.5-35B on a DGX Spark. A lot of you asked \"cool, where's the code?\" Today's the day: [Github](https://github.com/Avarok-Cybersecurity/atlas)\n\n**Atlas is open source.** Pure Rust + CUDA, no PyTorch, no Python runtime, \\~2.5 GB image, &lt;2 minute cold start. We rewrote the whole stack from HTTP handler to kernel dispatch because the bottleneck on Spark wasn't the silicon, it was 20+ GB of generic Python machinery "
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Demo of fine-tuning Orpheus 3B on a TTS dataset in Transformer Lab (open source)",
+    "author": "OriginalSpread3100",
+    "ups": 6,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5ocfu/demo_of_finetuning_orpheus_3b_on_a_tts_dataset_in/",
+    "matches": [
+      "ai",
+      "local"
+    ],
+    "text": "I'm part of the team building Transformer Lab, an open source ML research platform. We put together a short demo of how to run text to speech training, which you can do on your own hardware using a Local provider.\n\nhttps://reddit.com/link/1t5ocfu/video/s1h1h29iqkzg1/player\n\nThe video walks through:\n\n* Connecting your compute\n* Load and preprocessing a dataset (campwill/HAL-9000-Speech in this example)\n* Fine-tuning orpheus-3b-0.1-ft on it\n* Sampling audio from the trained model and listening bac"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Most people seem obsessed with token generation speed, but isn\u2019t prefill the real bottleneck? Am I missing something?",
+    "author": "wbulot",
+    "ups": 37,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5o4kc/most_people_seem_obsessed_with_token_generation/",
+    "matches": [
+      "ai",
+      "context"
+    ],
+    "text": "I read this sub every day and I keep seeing benchmarks and discussions focused almost entirely on tokens/s generation speed. Prompt processing speed barely gets mentioned.\n\nFrom my own experience running a bunch of different models on different GPUs for all kinds of tasks, the prefill stage is usually the part that actually feels slow. Once generation starts, even \u201conly\u201d 15 t/s is perfectly usable for me. The wait for the model to eat the prompt is what eats most of the time.\n\nSeeing all the hyp"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Exaggerated PCI-E bandwidth concerns?",
+    "author": "ziphnor",
+    "ups": 15,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5nw2k/exaggerated_pcie_bandwidth_concerns/",
+    "matches": [
+      "ai",
+      "context",
+      "local"
+    ],
+    "text": "I frequently see (both here and on r/LocalLLM ) comments that multi-gpu setups are complex, problematic and typically bottlenecked by PCI-E bandwidth on consumer motherboards.\n\nI am running 2x RTX 5060 TI 16gb ( and about to add a third ), and my PCIe setup is pretty bad. GPU0 is on a full x16 Gen 5 slot (running at 8x which is as fast as a 5060 can go) while GPU1 is stuck on PCI-E 4.0 x4 via chipset. \n\nI created (with AI help) a little benchmark script to run a prefill benchmark (against vLLM r"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "I analyzed 922 agentic task trace and found the secret weapon of DeepSeek v4",
+    "author": "zylskysniper",
+    "ups": 11,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5lywi/i_analyzed_922_agentic_task_trace_and_found_the/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "I recently did a benchmark of deepseek v4 in agentic tasks. Performance-wise, it's one of the best open source models, as expected. What really surprised me is the cost. I mean I know it's cheap, but it's cheap in a way that doesn't really make sense.\n\n# Cost Estimation\n\nLet's take v4 flash as example since it's not on sale (so it can better reflect the actual provider cost).\n\n[deepseek v4 flash price on openrouter](https://preview.redd.it/vh4qfgn6zjzg1.png?width=562&amp;format=png&amp;auto=webp"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Help with GPT-OSS-120B on vLLM",
+    "author": "DunklerErpel",
+    "ups": 0,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5ivrx/help_with_gptoss120b_on_vllm/",
+    "matches": [
+      "ai",
+      "tool"
+    ],
+    "text": "Hiya, today I was trying to get a response from GPT-OSS-120B via vLLM - and failed miserably!\n\nHas anybody gotten it to work, i.e. not just load, but also generate an answer? What image and extraArgs did you use?\n\nI failed with v0.18.0, v0.10.1, v0.17.0, some more I didn't write down, and a whole slew of different combinations of reasoning parser, tool call parser, enforce eager, no-enable-prefix-caching, ... I tried with the the \"guide\" (but didn't know how to load \\`v0.10.1+gptoss\\` via Kubern"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Code's open. Tried building a fully real time on-device voice assistant + live translator on a phone (multilingual, STT\u2192LLM\u2192TTS, all local) on the Tether QVAC SDK.",
+    "author": "dai_app",
+    "ups": 4,
+    "url": "https://reddit.com/r/LocalLLaMA/comments/1t5i10f/codes_open_tried_building_a_fully_real_time/",
+    "matches": [
+      "ai",
+      "local"
+    ],
+    "text": "I wanted to verify if a true speech-to-speech system (speak, the model thinks, it responds) could function entirely on a single device, without the cloud. The same source code also acts as a real-time translator (speak in language A, hear the response in language B). I used a phone as the most complex case study (Android arm64) and a desktop computer for feasibility verification. Multilingual support was an essential requirement.\n\nCode: [https://github.com/Helldez/JarvisQ](https://github.com/Hel"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "AI Intern aiming for Full-Time AI Engineer roles. Brutal honesty needed.",
+    "author": "Sanket-25",
+    "ups": 1,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5ra4d/ai_intern_aiming_for_fulltime_ai_engineer_roles/",
+    "matches": [
+      "ai",
+      "workflow",
+      "app"
+    ],
+    "text": "Hi everyone,\n\nI am a final year student specializing in Data Science, currently working as an AI Intern. I\u2019m preparing to apply for Full-Time AI Engineer roles and would appreciate some honest feedback on my resume.\n\nI\u2019ve focused my experience on building end-to-end autonomous systems and RAG pipelines rather than just experimenting with prompts.\n\nI\u2019m looking for specific advice on:\n\nTechnical Impact: Does the heavy focus on Agentic workflows (LangGraph) and specialized RAG (GraphRAG) carry weig"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "4 YOE Senior Full-Stack Engineer \u2014 what should I focus on for 30+ LPA Senior/Tech lead roles?",
+    "author": "VirusPuzzleheaded941",
+    "ups": 2,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5qqtq/4_yoe_senior_fullstack_engineer_what_should_i/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I\u2019m currently working as a Senior Full-Stack Engineer at 12 LPA in a tech startup and have 4 years of experience.\n\nI\u2019ve been wondering whether it\u2019s realistically possible to switch into Senior Engineer / Tech Lead roles paying above 30 LPA in the current market.\n\nI\u2019m a bit confused about where to focus next:\n\n* Should I go deeper into AI?\n* Or are strong DSA + System Design skills still enough for these roles?\n\nIf AI is becoming mandatory, how deep is \u201cdeep enough\u201d for someone targeting Senior E"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "What are the skills required to get into ai automation",
+    "author": "deoswish",
+    "ups": 2,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5q49d/what_are_the_skills_required_to_get_into_ai/",
+    "matches": [
+      "ai",
+      "automation",
+      "app",
+      "tool"
+    ],
+    "text": "Same as title, im a complete beginner. Ik basics of python, built some programs.\n\nAre there any particular tools to learn to get into this?\nAny advice is appreciated!"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "Not getting any reverts on applies. What's wrong with Resume",
+    "author": "Timely-Particular-39",
+    "ups": 1,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5pyao/not_getting_any_reverts_on_applies_whats_wrong/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I am 2024 grad with \\~2 years of experience currently working in WITCH.\n\nI have been applying to Software/Backend/Java Developer/Engineer roles since 2-3 months now but got 0 reverts. When I apply, along with the acknowledgement mail for that application, I see 2 new rejection mails on a refresh. \n\nI have been applying through LinkedIn, Instahyre, Naukri, Indeed, Cutshort, Wellfound and going to download timesjob after posting this.\n\nI know a lot might be wrong with the resume like maybe swappin"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "Shortlisting doubts of infosys on how they are shortlisting",
+    "author": "Sure_Cut_1320",
+    "ups": 1,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5lbvw/shortlisting_doubts_of_infosys_on_how_they_are/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Infosys offcampus doubts\n\nI recently applied for infosys 2026 offcampus sp dse hiring as I heard SE selected students can also apply \n\nNow I see that most of the people got mails about the process of the exam and some videos to understand and prepare but I didn't get any mail\n\nPeople who applied after me also got mail but I didn't get any mail\n\nDoes it mean I got rejected?"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "Claude Code re-learns my project for 4 minutes. What's your actual fix?",
+    "author": "Comprehensive_Quit67",
+    "ups": 5,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5laek/claude_code_relearns_my_project_for_4_minutes/",
+    "matches": [
+      "ai",
+      "app",
+      "tool"
+    ],
+    "text": "Hitting the same wall every day across Claude Code, Codex, and Cursor and want to know how the rest of you are handling it.\n\nOpen a new session on a project I worked on yesterday \u2192 first 2-4 minutes the agent is grepping around rediscovering what files exist, the architecture. Most things I figured out in yesterday's session are gone, until I ask it to save that as well. Switch from Claude Code to Codex mid-task and the whole rebuild happens again, neither tool knows what the other just learned."
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "Google- SWE-3(ML) round - Feeling overwhelmed by the topics!",
+    "author": "BeGood25",
+    "ups": 2,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5ky9k/google_swe3ml_round_feeling_overwhelmed_by_the/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Hey everyone,\n\nMy interview with Google is approaching and the recruiter told me that the 1st round will be a AI/ML round. \n\nShe didn't give much ideas around what will be asked, and spoke about the common topics only.\n\nI think there are a lot of topics which can be asked - Classical ML (Naive bayes, Random Forest, boosting etc), Specialization (I have in Audio), Coding (Recruiter told they can ask you to code something Non-DSA too).  \n\n\nI am sort of getting overwhelmed by all of this since I do"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "Need help for choosing between staying at current job vs taking up Cohesity offer",
+    "author": "ameya_rhythm",
+    "ups": 6,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5k68u/need_help_for_choosing_between_staying_at_current/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Hi folks,\n\nI\u2019m in a bit of a dilemma and would really appreciate some honest advice.\n\nBackground:\n\n\\~6.5 years experience (C++ / backend)\n\nCurrently at a well reputed bank(joined \\~6 months ago)\n\nOffer:\n\nCompany: Cohesity(NetBackup by Veritas)\n\nRole: Software Engineer III\n\nLocation: Pune\n\nBase: \u20b939 LPA\n\nBonus: 10%\n\nRSUs: 3000 units\n\nConcerns:\n\n**Veritas vs Cohesity confusion**\n\nOffer letter is from Veritas, but RSUs + team are Cohesity\n\nIs this normal? Does it impact resume or future switches?\n\n"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "Probation extended, unclear expectations, favoritism in the team \u2014what should I do ?",
+    "author": "Guilty-Reception-95",
+    "ups": 2,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5jv9p/probation_extended_unclear_expectations/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "I joined a tech company as a fresher about 7\u20138 months ago. My initial probation was 6 months, but on the last day of probation, they extended it citing \u201cperformance issues.\u201d\n\nWhat\u2019s confusing is ; the feedback I got was almost the same as what I received 2 months before that. It feels like there was no real evaluation of my progress, or maybe they just didn\u2019t take the time to reassess properly.\n\nSince joining, I\u2019ve honestly put in a lot of effort. Compared to some others who joined around the sa"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "I built an app that shows people around you in real-time\u2026 would you use this?",
+    "author": "developer-senpai",
+    "ups": 16,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5hj13/i_built_an_app_that_shows_people_around_you_in/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Hey everyone,\n\nI\u2019ve been working on an Android app that lets you discover and connect with people near you.\n\nThe idea came from noticing how hard it is to meet new people nearby\u2014even when you\u2019re in a crowded place like a caf\u00e9, gym, or college.\n\nWith this app, you can:\n\n* See people around you in real-time\n* Start chatting instantly\n* Keep it low-pressure (no heavy profiles)\n\nBut I\u2019m not sure if this is something people would actually use daily.\n\nWould you try something like this?  \nAnd what woul"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "QA Engineer (~1 YOE) not getting resume shortlisted for business analyst roles,trying to pivot. Need feedback.",
+    "author": "crossbones__",
+    "ups": 3,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5h6r9/qa_engineer_1_yoe_not_getting_resume_shortlisted/",
+    "matches": [
+      "automation",
+      "app"
+    ],
+    "text": "I have close to 1 year of experience working as a QA Engineer (manual + some automation). I\u2019ve been actively applying to roles (QA/Automation/BA) but haven\u2019t been getting shortlisted."
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "Help me choose : Product vs Service| GreyOrange vs accenture vs Priority IDC",
+    "author": "paneerchor",
+    "ups": 0,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5gy2d/help_me_choose_product_vs_service_greyorange_vs/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Hi everyone,  \nI\u2019m currently in a bit of a dilemma with three offers in hand. My joining dates are approaching soon, and I need to make a decision quickly. My long-term goal is to stay with the company for at least 3\u20135 years, so I\u2019m looking for **stability**, **growth**, and a decent **work-life balance (WLB)**.  \nHere are the details of the offers:\n\n**1. GreyOrange (Gurugram)**  \n\u2022 **Role:** Software Engineer (Product-based)  \n\u2022 **CTC:** \u20b914.7L (Fixed) + \u20b90.8L (Variable) + \u20b950k Joining Bonus  \n"
+  },
+  {
+    "subreddit": "developersIndia",
+    "title": "As a frontend developer, not receiving enough response from recruiters after laid off, want to change my tech",
+    "author": "AlbatrossLate8190",
+    "ups": 16,
+    "url": "https://reddit.com/r/developersIndia/comments/1t5gxe0/as_a_frontend_developer_not_receiving_enough/",
+    "matches": [
+      "ai",
+      "app"
+    ],
+    "text": "Want to switch but can't figure out what to do ......\n\nHi, I am 27 years old, got laid off in march and have been actively applying since jan, but I can't seem to get calls. \n\nI have a total of 2.10 years of experience in React. Js , frontend development. Worked with two startups in this duration. 1st was a little bit decent with around 500 people.\nThen I was laid off after 1.2 yrs.\nTyen I couldn't secure a job ror around 8 months and then joined again a startup which I can say a lala company. B"
+  }
+]
