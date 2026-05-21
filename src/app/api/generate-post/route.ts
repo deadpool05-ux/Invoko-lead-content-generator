@@ -1,6 +1,57 @@
 import { NextResponse } from 'next/server';
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
+// ── Subreddit Pools ──────────────────────────────────────────────────
+// PROMO_SUBS: Subreddits that explicitly ALLOW self-promotion / showcase posts.
+// These are the ONLY subs that can be suggested for promo posts.
+const PROMO_SUBS: { name: string; desc: string }[] = [
+  { name: 'r/SideProject', desc: 'showcasing new projects/tools built by developers' },
+  { name: 'r/SaaS', desc: 'software-as-a-service topics and launches' },
+  { name: 'r/indiehackers', desc: 'bootstrapping, indie tools, revenue discussions' },
+  { name: 'r/ProductivityApps', desc: 'productivity-focused app showcases' },
+  { name: 'r/selfhosted', desc: 'local-first / privacy-angle tools' },
+  { name: 'r/startups', desc: 'general startup discussions and launches' },
+  { name: 'r/solopreneur', desc: 'solo builds and one-person businesses' },
+  { name: 'r/AIToolCompare', desc: 'comparing and showcasing AI tools' },
+  { name: 'r/AI_Automations', desc: 'AI workflows and automations' },
+  { name: 'r/AI_Agents', desc: 'agentic AI showcases and discussions' },
+  { name: 'r/microsaas', desc: 'micro-SaaS showcases and discussions' },
+];
+
+// NO_PROMO_SUBS: Subreddits that STRICTLY FORBID self-promotion.
+// These are the ONLY subs that can be suggested for non-promo (trojan horse) posts.
+const NO_PROMO_SUBS: { name: string; desc: string }[] = [
+  { name: 'r/macapps', desc: 'macOS apps and developer workflow discussion' },
+  { name: 'r/MacOS', desc: 'macOS features and OS-level productivity' },
+  { name: 'r/productivity', desc: 'general productivity discussions' },
+  { name: 'r/shortcuts', desc: 'mac/iOS shortcuts and automation' },
+  { name: 'r/Raycast', desc: 'mac launcher and developer extensions' },
+  { name: 'r/alfred', desc: 'mac productivity launcher' },
+  { name: 'r/KeyboardMaestro', desc: 'mac automation' },
+  { name: 'r/ObsidianMD', desc: 'knowledge management, local-first markdown note-taking' },
+  { name: 'r/apple', desc: 'apple ecosystem / hardware / software discussions' },
+  { name: 'r/software', desc: 'general software discussion' },
+  { name: 'r/artificial', desc: 'broad AI and machine learning discussion' },
+  { name: 'r/LocalLLaMA', desc: 'local LLMs, privacy-first AI, offline intelligence' },
+  { name: 'r/ADHD_Programmers', desc: 'ADHD, focus, and coding tools' },
+  { name: 'r/ADHDproductivity', desc: 'ADHD productivity hacks' },
+  { name: 'r/DeepWork', desc: 'focused work methods' },
+  { name: 'r/SecondBrain', desc: 'personal knowledge bases and context tracking' },
+  { name: 'r/OpenAI', desc: 'OpenAI / GPT usage and limitations' },
+  { name: 'r/ChatGPT', desc: 'ChatGPT usage and limitations' },
+  { name: 'r/ClaudeAI', desc: 'Claude AI usage and limitations' },
+  { name: 'r/developersIndia', desc: 'indian developers and workspace discussion' },
+];
+
+// ── Helper ───────────────────────────────────────────────────────────
+function buildSubList(pool: { name: string; desc: string }[], excluded: string[]): string {
+  const excludedLower = excluded.map(s => s.toLowerCase().replace(/^r\//, ''));
+  const filtered = pool.filter(
+    s => !excludedLower.includes(s.name.toLowerCase().replace(/^r\//, ''))
+  );
+  if (filtered.length === 0) return '(all options exhausted — pick the best subreddit you know of that fits the post type)';
+  return filtered.map(s => `- ${s.name} (${s.desc})`).join('\n');
+}
 
 
 export async function POST(request: Request) {
@@ -13,11 +64,15 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: 'Missing AI service API key (Gemini or Groq)' }, { status: 500 });
     }
 
-    const { posts, layer, promo } = await request.json();
+    const { posts, layer, promo, excludeSubreddits } = await request.json();
+    const excluded: string[] = excludeSubreddits || [];
 
     const model = useGemini ? genAI!.getGenerativeModel({ model: 'gemini-2.5-flash' }) : null;
 
     const postsContext = posts.map((p: any, i: number) => `Post ${i+1}:\nTitle: ${p.title}\nContent: ${p.selftext}`).join('\n\n');
+
+    // Build the allowed subreddit list based on post type, with rejected subs pre-filtered
+    const allowedSubsList = buildSubList(promo ? PROMO_SUBS : NO_PROMO_SUBS, excluded);
 
     const prompt = promo ? `
 You are Invoko Core. Write a high-engagement, "viral-style" Reddit post that SHOWCASES Invoko.ai.
@@ -38,18 +93,10 @@ CONTENT:
 - avoid being "salesy", keep it dev-to-dev.
 
 SUBREDDIT SELECTION RULE:
-Since this is a promotional post, you MUST choose a suggested subreddit that explicitly ALLOWS self-promotion or showcase posts. Pick the SINGLE best subreddit from this list that fits the generated content the most to get people to believe in Invoko and give it a shot:
-- r/SideProject (best for showcasing new projects/tools built by developers)
-- r/SaaS (best for software-as-a-service topics)
-- r/indiehackers (best for bootstrapping, indie tools)
-- r/ProductivityApps (best for productivity-focused app showcases)
-- r/selfhosted (if the tool has local-first/privacy angles)
-- r/startups (general startups)
-- r/solopreneur (for solo builds)
-- r/AIToolCompare (specifically comparing/showcasing AI tools)
-- r/AI_Automations (for AI workflows and automations)
-- r/AI_Agents (for agentic AI showcases)
-- r/microsaas (for micro-SaaS showcase)
+This is a PROMOTIONAL post. You MUST ONLY pick from the following promo-friendly subreddits. DO NOT suggest any subreddit outside this list:
+${allowedSubsList}
+
+Pick the SINGLE best subreddit from the list above that fits the generated content.
 
 Analyze these posts:
 ${postsContext}
@@ -78,26 +125,10 @@ CONTENT:
 - the goal is 100% engagement so the user can DM the commenters later.
 
 SUBREDDIT SELECTION RULE:
-Since this post is non-promotional and contains no links or brand names, you are completely UNBOUND by self-promotion rules. Pick the absolute best subreddit for the following topics to maximize discussion and debate among targeted users (mac users, developers, productivity enthusiasts):
-- r/macapps (if about macOS apps or developer workflow)
-- r/MacOS (if about macOS features or OS-level productivity)
-- r/productivity (general productivity discussions)
-- r/shortcuts (mac/iOS shortcuts and automation)
-- r/Raycast (mac launcher and developer extensions)
-- r/alfred (mac productivity launcher)
-- r/KeyboardMaestro (mac automation)
-- r/ObsidianMD (knowledge management, local-first markdown note-taking)
-- r/apple (apple ecosystem/hardware/software discussions)
-- r/software (general software discussion)
-- r/artificial (broad AI and machine learning discussion)
-- r/LocalLLaMA (local LLMs, privacy-first AI, offline intelligence)
-- r/AI_Agents (AI agents, autonomous tools)
-- r/ADHD_Programmers (ADHD, focus, and coding tools)
-- r/ADHDproductivity (ADHD productivity hacks)
-- r/DeepWork (focused work methods)
-- r/SecondBrain (personal knowledge bases and context tracking)
-- r/OpenAI / r/ChatGPT / r/ClaudeAI (general LLM usage and limitations)
-- r/developersIndia (indian developers and workspace discussion)
+This is a NON-PROMOTIONAL post. You MUST ONLY pick from the following no-promo subreddits that strictly forbid self-promotion. DO NOT suggest any subreddit outside this list:
+${allowedSubsList}
+
+Pick the absolute best subreddit from the list above to maximize discussion and debate among targeted users (mac users, developers, productivity enthusiasts).
 
 Analyze these posts:
 ${postsContext}
@@ -152,3 +183,4 @@ Return JSON: {"title": "...", "body": "...", "suggestedSubreddit": "..."}.
     return NextResponse.json({ error: error.message }, { status: 500 });
   }
 }
+

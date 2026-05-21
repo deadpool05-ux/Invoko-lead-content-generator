@@ -16,11 +16,20 @@ export default function Home() {
   const [drafts, setDrafts] = useState<Record<string, string>>({});
   const [draftError, setDraftError] = useState<string | null>(null);
 
+  // DM Drafting States
+  const [dmDraftingPostId, setDmDraftingPostId] = useState<string | null>(null);
+  const [dmDrafts, setDmDrafts] = useState<Record<string, string>>({});
+  const [dmDraftError, setDmDraftError] = useState<string | null>(null);
+
   // AI Inbound Post States
   const [generatingPost, setGeneratingPost] = useState(false);
   const [generatedPostData, setGeneratedPostData] = useState<{title: string, body: string, suggestedSubreddit?: string} | null>(null);
   const [isPromoGenerated, setIsPromoGenerated] = useState(false);
   const [generatePostError, setGeneratePostError] = useState<string | null>(null);
+
+  // Subreddit Respawn States
+  const [rejectedSubreddits, setRejectedSubreddits] = useState<string[]>([]);
+  const [respawning, setRespawning] = useState(false);
 
   const KEYWORDS = [
     // Pain / Intent Signals
@@ -116,6 +125,31 @@ export default function Home() {
     }
   };
 
+  const generateDmDraft = async (post: any) => {
+    setDmDraftingPostId(post.id);
+    setDmDraftError(null);
+    try {
+      const res = await fetch('/api/dm-draft', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          postTitle: post.title,
+          postText: post.selftext,
+          subreddit: post.subreddit,
+          author: post.author
+        })
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || 'Failed to generate DM draft');
+      
+      setDmDrafts(prev => ({ ...prev, [post.id]: data.draft }));
+    } catch (err: any) {
+      setDmDraftError(err.message);
+    } finally {
+      setDmDraftingPostId(null);
+    }
+  };
+
   const SELF_PROMO_SUBS = [
     'sideproject', 'saas', 'entrepreneur', 'startups', 'indiehackers', 
     'microsaas', 'startupideas', 'solopreneur', 'aitoolcompare', 
@@ -144,12 +178,13 @@ export default function Home() {
 
   const qualifiedPosts = layer === 'invoko-db' ? scoredPosts : scoredPosts.filter(post => post.matchCount >= minMatches);
 
-  const generateViralPost = async (promo: boolean) => {
+  const generateViralPost = async (promo: boolean, excludeSubs: string[] = []) => {
     if (qualifiedPosts.length === 0) return;
     setGeneratingPost(true);
     setGeneratePostError(null);
     setGeneratedPostData(null);
     setIsPromoGenerated(promo);
+    setRejectedSubreddits(excludeSubs);
     try {
       const res = await fetch('/api/generate-post', {
         method: 'POST',
@@ -157,7 +192,8 @@ export default function Home() {
         body: JSON.stringify({
           posts: qualifiedPosts.slice(0, 10).map(p => ({ title: p.title, selftext: p.selftext })),
           layer,
-          promo
+          promo,
+          excludeSubreddits: excludeSubs.length > 0 ? excludeSubs : undefined
         })
       });
       const data = await res.json();
@@ -167,6 +203,33 @@ export default function Home() {
       setGeneratePostError(err.message);
     } finally {
       setGeneratingPost(false);
+    }
+  };
+
+  const respawnSubreddit = async () => {
+    if (!generatedPostData?.suggestedSubreddit) return;
+    const newRejected = [...rejectedSubreddits, generatedPostData.suggestedSubreddit];
+    setRespawning(true);
+    setGeneratePostError(null);
+    try {
+      const res = await fetch('/api/generate-post', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          posts: qualifiedPosts.slice(0, 10).map(p => ({ title: p.title, selftext: p.selftext })),
+          layer,
+          promo: isPromoGenerated,
+          excludeSubreddits: newRejected
+        })
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.error || 'Failed to respawn subreddit');
+      setGeneratedPostData(data);
+      setRejectedSubreddits(newRejected);
+    } catch (err: any) {
+      setGeneratePostError(err.message);
+    } finally {
+      setRespawning(false);
     }
   };
 
@@ -251,7 +314,22 @@ export default function Home() {
                 {isPromoGenerated ? 'Promotional Showcase Generated' : 'Trojan Horse Authority Post Generated'}
               </h2>
               {generatedPostData.suggestedSubreddit && (
-                <div className="text-xs font-mono text-emerald-400 mt-1">Suggested Subreddit: {generatedPostData.suggestedSubreddit}</div>
+                <div className="flex items-center gap-3 mt-1">
+                  <div className="text-xs font-mono text-emerald-400">Suggested Subreddit: {generatedPostData.suggestedSubreddit}</div>
+                  <button
+                    onClick={respawnSubreddit}
+                    disabled={respawning}
+                    className="text-[10px] uppercase tracking-wider font-bold bg-orange-500/10 hover:bg-orange-500/20 text-orange-400 border border-orange-500/50 px-2.5 py-1 rounded transition-all disabled:opacity-50 flex items-center gap-1.5"
+                  >
+                    <span className={respawning ? 'animate-spin' : ''}>↻</span>
+                    {respawning ? 'Respawning...' : 'Respawn Sub'}
+                  </button>
+                  {rejectedSubreddits.length > 0 && (
+                    <div className="text-[10px] text-gray-600 font-mono">
+                      Skipped: {rejectedSubreddits.join(', ')}
+                    </div>
+                  )}
+                </div>
               )}
             </div>
             <button 
@@ -299,6 +377,7 @@ export default function Home() {
         <div className="flex-1 flex flex-col gap-6">
           {error && <div className="bg-red-900/50 text-red-400 p-4 rounded-md text-sm">{error}</div>}
           {draftError && <div className="bg-yellow-900/50 text-yellow-400 p-4 rounded-md text-sm border border-yellow-700">AI Error: {draftError}</div>}
+          {dmDraftError && <div className="bg-yellow-900/50 text-yellow-400 p-4 rounded-md text-sm border border-yellow-700">DM Error: {dmDraftError}</div>}
           
           {!loading && posts.length > 0 && (
             <div className="text-xs text-gray-500 font-mono">
@@ -362,6 +441,13 @@ export default function Home() {
                     >
                       {draftingPostId === post.id ? 'Drafting...' : (post.draft_reply ? 'Draft Ready' : 'Generate Reply')}
                     </button>
+                    <button 
+                      onClick={() => generateDmDraft(post)}
+                      disabled={dmDraftingPostId === post.id}
+                      className="text-xs uppercase tracking-wider font-bold bg-cyan-500/10 hover:bg-cyan-500/20 text-cyan-400 border border-cyan-500/50 px-4 py-2 rounded transition-all disabled:opacity-50"
+                    >
+                      {dmDraftingPostId === post.id ? 'Drafting DM...' : (dmDrafts[post.id] ? 'Regen DM' : 'DM Response')}
+                    </button>
                     <a 
                       href={layer === 'invoko-db' ? post.url : `https://reddit.com${post.permalink}`} 
                       target="_blank" 
@@ -373,6 +459,34 @@ export default function Home() {
                   </div>
                 </div>
                 
+                {/* DM Draft Section */}
+                {dmDrafts[post.id] && (
+                  <div className="mt-4 p-4 bg-cyan-950/20 rounded border border-cyan-500/30">
+                    <div className="text-xs text-cyan-400 uppercase tracking-wider mb-2 font-bold flex justify-between">
+                      <span>DM Draft → u/{post.author}</span>
+                      <div className="flex gap-3">
+                        <a
+                          href={`https://www.reddit.com/message/compose/?to=${post.author}`}
+                          target="_blank"
+                          rel="noreferrer"
+                          className="text-cyan-300 hover:text-cyan-100 transition-colors"
+                        >
+                          Open Reddit DM
+                        </a>
+                        <button 
+                          onClick={() => navigator.clipboard.writeText(dmDrafts[post.id])}
+                          className="text-cyan-300 hover:text-cyan-100 transition-colors"
+                        >
+                          Copy to Clipboard
+                        </button>
+                      </div>
+                    </div>
+                    <div className="text-sm text-gray-300 font-mono whitespace-pre-wrap">
+                      {dmDrafts[post.id]}
+                    </div>
+                  </div>
+                )}
+
                 {/* Pre-drafted reply from DB */}
                 {layer === 'invoko-db' && post.draft_reply && (
                   <div className="mt-4 p-4 bg-emerald-950/20 rounded border border-emerald-500/30">
